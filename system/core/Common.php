@@ -493,7 +493,8 @@ if ( ! function_exists('log_message'))
 if ( ! function_exists('set_status_header'))
 {
 	/**
-	 * Set HTTP Status Header
+     * Set HTTP Status Header
+     * 通过HTTP编码获取对应的文字解释。
 	 *
 	 * @param	int	the status code
 	 * @param	string
