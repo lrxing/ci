@@ -93,7 +93,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * Security procedures
  * ------------------------------------------------------
  */
-
+/* 如果当前php版本小于5.4 */
 if ( ! is_php('5.4'))
 {
 	ini_set('magic_quotes_runtime', 0);
