@@ -1,0 +1,5633 @@
+jump 吃鸡
+jump 你在逗我吗
+jump 原谅帽
+jump 加油哦
+jump 要亲亲
+jump 吃鸡
+jump 撩妹
+jump 权律二
+jump 浪里个浪
+jump 笑出声
+jump 老司机带带我
+jump 快活啊
+jump 无奈
+jump 你咋不上天
+jump 你在逗我吗
+jump 猪
+jump 不爱我
+jump 原谅帽
+jump 亲亲我
+jump 加油哦
+jump 吓死宝宝了
+jump 惊呆了
+jump 心碎了
+jump 要亲亲
+jump 我不听我不听
+jump 起来嗨
+jump 嘻嘻
+jump 吃瓜群众
+jump 嫁给我
+jump 要你管
+jump 呵呵
+jump 亲一口
+jump 我想静静
+jump 杀马特
+jump 好害怕
+jump 好期待
+jump 我错了嘛
+jump 不忍直视
+jump 有前途
+jump 扎心了老铁
+jump 我喜欢你
+jump 我的小可爱
+jump 哭了
+jump 盗我图
+jump 跟我走
+jump 你说的都对
+jump 切
+jump 无聊
+jump 我竟无言以对
+jump 流鼻血
+jump 要哭了
+jump 歪
+jump 我就笑笑
+jump 打屁屁
+jump 老公
+jump 你咬我
+jump 不嘛不嘛
+jump 交个朋友吧
+jump 黑眼圈
+jump 我差点就信了
+jump 你说得对
+jump 我不服
+jump 好无奈
+jump biubiubiu
+local count: 58, remote count: 58
+jump 吃鸡
+local count: 38, remote count: 40
+local count: 500, remote count: 500
+jump 撩妹
+local count: 378, remote count: 378
+jump 权律二
+local count: 27, remote count: 27
+jump 浪里个浪
+local count: 34, remote count: 34
+jump 笑出声
+local count: 51, remote count: 51
+jump 老司机带带我
+local count: 48, remote count: 48
+jump 快活啊
+local count: 270, remote count: 270
+jump 无奈
+local count: 66, remote count: 66
+jump 你咋不上天
+local count: 578, remote count: 580
+local count: 31, remote count: 31
+jump 你在逗我吗
+local count: 73, remote count: 74
+local count: 462, remote count: 462
+jump 猪
+local count: 27, remote count: 27
+jump 不爱我
+local count: 174, remote count: 174
+jump 原谅帽
+local count: 739, remote count: 739
+jump 亲亲我
+local count: 699, remote count: 699
+jump 加油哦
+local count: 154, remote count: 154
+jump 吓死宝宝了
+local count: 100, remote count: 100
+jump 惊呆了
+local count: 100, remote count: 100
+jump 心碎了
+local count: 59, remote count: 59
+jump 要亲亲
+local count: 220, remote count: 220
+jump 我不听我不听
+local count: 448, remote count: 448
+jump 起来嗨
+local count: 190, remote count: 190
+jump 嘻嘻
+local count: 342, remote count: 343
+local count: 152, remote count: 152
+jump 吃瓜群众
+local count: 26, remote count: 26
+jump 嫁给我
+local count: 623, remote count: 640
+local count: 20, remote count: 20
+jump 要你管
+local count: 440, remote count: 440
+jump 呵呵
+local count: 2594, remote count: 2603
+local count: 33, remote count: 33
+jump 亲一口
+local count: 86, remote count: 86
+jump 我想静静
+local count: 49, remote count: 49
+jump 杀马特
+local count: 536, remote count: 536
+jump 好害怕
+local count: 23, remote count: 23
+jump 好期待
+local count: 237, remote count: 237
+jump 我错了嘛
+local count: 83, remote count: 83
+jump 不忍直视
+local count: 10, remote count: 10
+jump 有前途
+local count: 30, remote count: 30
+jump 扎心了老铁
+local count: 208, remote count: 208
+jump 我喜欢你
+local count: 1350, remote count: 1351
+local count: 44, remote count: 44
+jump 我的小可爱
+local count: 101, remote count: 101
+jump 哭了
+local count: 65, remote count: 65
+jump 盗我图
+local count: 26, remote count: 26
+jump 跟我走
+local count: 62, remote count: 62
+jump 你说的都对
+local count: 355, remote count: 356
+local count: 119, remote count: 119
+jump 切
+local count: 573, remote count: 573
+jump 无聊
+local count: 55, remote count: 55
+jump 我竟无言以对
+local count: 113, remote count: 113
+jump 流鼻血
+local count: 142, remote count: 142
+jump 要哭了
+local count: 119, remote count: 119
+jump 歪
+local count: 107, remote count: 107
+jump 我就笑笑
+local count: 70, remote count: 70
+jump 打屁屁
+local count: 196, remote count: 196
+jump 老公
+local count: 40, remote count: 40
+jump 你咬我
+local count: 37, remote count: 37
+jump 不嘛不嘛
+local count: 80, remote count: 80
+jump 交个朋友吧
+local count: 30, remote count: 30
+jump 黑眼圈
+local count: 27, remote count: 27
+jump 我差点就信了
+local count: 34, remote count: 34
+jump 你说得对
+local count: 38, remote count: 37
+jump 我不服
+local count: 21, remote count: 21
+jump 瑟瑟发抖
+local count: 193, remote count: 194
+local count: 558, remote count: 568
+local count: 270, remote count: 270
+jump 好无奈
+local count: 63, remote count: 63
+jump 咬我啊
+local count: 263, remote count: 263
+jump 打我啊
+local count: 60, remote count: 60
+jump 人民币
+local count: 671, remote count: 714
+local count: 370, remote count: 372
+local count: 78, remote count: 78
+jump 大佬
+local count: 81, remote count: 81
+jump biubiubiu
+local count: 110, remote count: 110
+jump biu
+local count: 143, remote count: 144
+local count: 20, remote count: 20
+jump 多喝热水
+local count: 0, remote count: 23
+local count: 0, remote count: 105
+local count: 0, remote count: 598
+local count: 0, remote count: 458
+local count: 0, remote count: 73
+local count: 37, remote count: 37
+jump 我最帅
+local count: 0, remote count: 28
+local count: 0, remote count: 185
+local count: 58, remote count: 58
+jump 吃鸡
+local count: 38, remote count: 40
+local count: 500, remote count: 500
+jump 撩妹
+local count: 378, remote count: 378
+jump 权律二
+local count: 27, remote count: 27
+jump 浪里个浪
+local count: 34, remote count: 34
+jump 笑出声
+local count: 51, remote count: 51
+jump 老司机带带我
+local count: 48, remote count: 48
+jump 快活啊
+local count: 270, remote count: 270
+jump 无奈
+local count: 66, remote count: 66
+jump 你咋不上天
+local count: 578, remote count: 580
+local count: 31, remote count: 31
+jump 你在逗我吗
+local count: 73, remote count: 74
+local count: 462, remote count: 462
+jump 猪
+local count: 27, remote count: 27
+jump 不爱我
+local count: 174, remote count: 174
+jump 原谅帽
+local count: 739, remote count: 739
+jump 亲亲我
+local count: 699, remote count: 699
+jump 加油哦
+local count: 154, remote count: 154
+jump 吓死宝宝了
+local count: 100, remote count: 100
+jump 惊呆了
+local count: 100, remote count: 100
+jump 心碎了
+local count: 59, remote count: 59
+jump 要亲亲
+local count: 220, remote count: 220
+jump 我不听我不听
+local count: 448, remote count: 448
+jump 起来嗨
+local count: 190, remote count: 190
+jump 嘻嘻
+local count: 342, remote count: 343
+local count: 152, remote count: 152
+jump 吃瓜群众
+local count: 26, remote count: 26
+jump 嫁给我
+local count: 623, remote count: 640
+local count: 20, remote count: 20
+jump 要你管
+local count: 440, remote count: 440
+jump 呵呵
+local count: 2594, remote count: 2603
+local count: 33, remote count: 33
+jump 亲一口
+local count: 86, remote count: 86
+jump 我想静静
+local count: 49, remote count: 49
+jump 杀马特
+local count: 536, remote count: 536
+jump 好害怕
+local count: 23, remote count: 23
+jump 好期待
+local count: 237, remote count: 237
+jump 我错了嘛
+local count: 83, remote count: 83
+jump 不忍直视
+local count: 10, remote count: 10
+jump 有前途
+local count: 30, remote count: 30
+jump 扎心了老铁
+local count: 208, remote count: 208
+jump 我喜欢你
+local count: 1350, remote count: 1351
+local count: 44, remote count: 44
+jump 我的小可爱
+local count: 101, remote count: 101
+jump 哭了
+local count: 65, remote count: 65
+jump 盗我图
+local count: 26, remote count: 26
+jump 跟我走
+local count: 62, remote count: 62
+jump 你说的都对
+local count: 355, remote count: 356
+local count: 119, remote count: 119
+jump 切
+local count: 573, remote count: 573
+jump 无聊
+local count: 55, remote count: 55
+jump 我竟无言以对
+local count: 113, remote count: 113
+jump 流鼻血
+local count: 142, remote count: 142
+jump 要哭了
+local count: 119, remote count: 119
+jump 歪
+local count: 107, remote count: 107
+jump 我就笑笑
+local count: 70, remote count: 70
+jump 打屁屁
+local count: 196, remote count: 196
+jump 老公
+local count: 40, remote count: 40
+jump 你咬我
+local count: 37, remote count: 37
+jump 不嘛不嘛
+local count: 80, remote count: 80
+jump 交个朋友吧
+local count: 30, remote count: 30
+jump 黑眼圈
+local count: 27, remote count: 27
+jump 我差点就信了
+local count: 34, remote count: 34
+jump 你说得对
+local count: 38, remote count: 37
+jump 我不服
+local count: 21, remote count: 21
+jump 瑟瑟发抖
+local count: 193, remote count: 194
+local count: 558, remote count: 568
+local count: 270, remote count: 270
+jump 好无奈
+local count: 63, remote count: 63
+jump 咬我啊
+local count: 263, remote count: 263
+jump 打我啊
+local count: 60, remote count: 60
+jump 人民币
+local count: 671, remote count: 714
+local count: 370, remote count: 372
+local count: 78, remote count: 78
+jump 大佬
+local count: 81, remote count: 81
+jump biubiubiu
+local count: 110, remote count: 110
+jump biu
+local count: 143, remote count: 144
+local count: 20, remote count: 20
+jump 多喝热水
+local count: 23, remote count: 23
+jump 太污了
+local count: 105, remote count: 105
+jump 抱大腿
+local count: 593, remote count: 598
+local count: 449, remote count: 458
+local count: 73, remote count: 73
+jump 傻子
+local count: 37, remote count: 37
+jump 我最帅
+local count: 28, remote count: 28
+jump 没抢到
+local count: 185, remote count: 185
+jump 人呢人呢
+local count: 0, remote count: 32
+local count: 0, remote count: 272
+local count: 0, remote count: 119
+local count: 0, remote count: 20
+local count: 0, remote count: 28
+local count: 0, remote count: 61
+local count: 252, remote count: 253
+local count: 0, remote count: 804
+local count: 0, remote count: 19
+local count: 0, remote count: 319
+local count: 0, remote count: 576
+local count: 0, remote count: 212
+local count: 104, remote count: 105
+local count: 0, remote count: 20
+local count: 0, remote count: 31
+local count: 0, remote count: 71
+local count: 0, remote count: 345
+local count: 468, remote count: 477
+local count: 0, remote count: 2583
+local count: 0, remote count: 83
+local count: 0, remote count: 41
+local count: 0, remote count: 87
+local count: 150, remote count: 150
+jump 智障
+local count: 4664, remote count: 4665
+local count: 0, remote count: 33
+local count: 0, remote count: 28
+local count: 175, remote count: 175
+jump 胖子
+local count: 0, remote count: 31
+local count: 0, remote count: 52
+local count: 0, remote count: 141
+local count: 0, remote count: 21
+local count: 0, remote count: 220
+local count: 0, remote count: 24
+local count: 30, remote count: 30
+jump 咋地
+local count: 31, remote count: 31
+jump 渍渍渍
+local count: 0, remote count: 37
+local count: 0, remote count: 93
+local count: 0, remote count: 40
+local count: 0, remote count: 193
+local count: 0, remote count: 23
+local count: 0, remote count: 68
+local count: 106, remote count: 106
+jump 辣鸡
+local count: 0, remote count: 182
+local count: 0, remote count: 517
+local count: 0, remote count: 227
+local count: 0, remote count: 174
+local count: 0, remote count: 153
+local count: 0, remote count: 560
+local count: 0, remote count: 3851
+local count: 0, remote count: 27
+local count: 0, remote count: 94
+local count: 0, remote count: 78
+local count: 77, remote count: 77
+jump 我也很绝望啊
+local count: 0, remote count: 73
+local count: 0, remote count: 991
+local count: 0, remote count: 343
+local count: 27, remote count: 27
+jump 你在逗我
+local count: 453, remote count: 455
+local count: 0, remote count: 276
+local count: 0, remote count: 67
+local count: 36, remote count: 36
+jump 看不见
+local count: 30, remote count: 30
+jump 好害羞
+local count: 0, remote count: 31
+local count: 0, remote count: 1625
+local count: 0, remote count: 21
+local count: 0, remote count: 70
+local count: 0, remote count: 138
+local count: 0, remote count: 27
+local count: 0, remote count: 28
+local count: 0, remote count: 943
+local count: 0, remote count: 27
+local count: 0, remote count: 26
+local count: 0, remote count: 33
+local count: 0, remote count: 25
+local count: 0, remote count: 32
+local count: 0, remote count: 980
+local count: 0, remote count: 36
+local count: 0, remote count: 22
+local count: 0, remote count: 36
+local count: 0, remote count: 322
+local count: 0, remote count: 95
+local count: 0, remote count: 47
+local count: 0, remote count: 42
+local count: 0, remote count: 76
+local count: 0, remote count: 252
+local count: 0, remote count: 21
+local count: 0, remote count: 581
+local count: 0, remote count: 54
+local count: 0, remote count: 53
+local count: 0, remote count: 82
+local count: 0, remote count: 42
+local count: 0, remote count: 83
+local count: 0, remote count: 1486
+local count: 0, remote count: 127
+local count: 0, remote count: 73
+local count: 0, remote count: 408
+local count: 0, remote count: 156
+local count: 669, remote count: 712
+local count: 101, remote count: 101
+jump 欺负人
+local count: 0, remote count: 43
+local count: 0, remote count: 103
+local count: 0, remote count: 56
+local count: 0, remote count: 2520
+local count: 0, remote count: 42
+local count: 0, remote count: 577
+local count: 0, remote count: 49
+local count: 0, remote count: 262
+local count: 248, remote count: 248
+jump 人呢
+local count: 0, remote count: 232
+local count: 0, remote count: 1666
+local count: 0, remote count: 74
+local count: 0, remote count: 85
+local count: 0, remote count: 293
+local count: 0, remote count: 472
+local count: 0, remote count: 178
+local count: 0, remote count: 313
+local count: 0, remote count: 211
+local count: 0, remote count: 1713
+local count: 0, remote count: 79
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 26, remote count: 26
+jump 好污
+local count: 0, remote count: 33
+local count: 16, remote count: 16
+jump 妥妥的
+local count: 0, remote count: 132
+local count: 0, remote count: 201
+local count: 0, remote count: 52
+local count: 0, remote count: 65
+local count: 0, remote count: 1016
+local count: 0, remote count: 156
+local count: 0, remote count: 305
+local count: 0, remote count: 2336
+local count: 0, remote count: 23
+local count: 0, remote count: 93
+local count: 0, remote count: 140
+local count: 0, remote count: 185
+local count: 0, remote count: 28
+local count: 0, remote count: 139
+local count: 0, remote count: 152
+local count: 55, remote count: 55
+jump 噗
+local count: 0, remote count: 70
+local count: 0, remote count: 227
+local count: 0, remote count: 429
+local count: 0, remote count: 407
+local count: 0, remote count: 53
+local count: 0, remote count: 90
+local count: 0, remote count: 115
+local count: 0, remote count: 34
+local count: 0, remote count: 22
+local count: 5109, remote count: 5118
+local count: 0, remote count: 21
+local count: 0, remote count: 25
+local count: 0, remote count: 42
+local count: 0, remote count: 48
+local count: 0, remote count: 29
+local count: 0, remote count: 391
+local count: 0, remote count: 32
+local count: 0, remote count: 38
+local count: 0, remote count: 179
+local count: 0, remote count: 64
+local count: 119, remote count: 119
+jump 略略略
+local count: 270, remote count: 270
+jump 楼上
+local count: 0, remote count: 31
+local count: 0, remote count: 103
+local count: 0, remote count: 88
+local count: 0, remote count: 33
+local count: 0, remote count: 35
+local count: 0, remote count: 70
+local count: 0, remote count: 41
+local count: 36, remote count: 36
+jump 求安慰
+local count: 0, remote count: 16
+local count: 0, remote count: 592
+local count: 0, remote count: 158
+local count: 65, remote count: 65
+jump 委屈巴巴
+local count: 69, remote count: 69
+jump 不想活了
+local count: 0, remote count: 30
+local count: 0, remote count: 940
+local count: 0, remote count: 309
+local count: 25, remote count: 25
+jump 再来一个
+local count: 0, remote count: 58
+local count: 0, remote count: 40
+local count: 0, remote count: 472
+local count: 0, remote count: 196
+local count: 0, remote count: 517
+local count: 0, remote count: 440
+local count: 0, remote count: 127
+local count: 0, remote count: 237
+local count: 0, remote count: 592
+local count: 0, remote count: 33
+local count: 0, remote count: 37
+local count: 0, remote count: 26
+local count: 0, remote count: 429
+local count: 0, remote count: 28
+local count: 0, remote count: 42
+local count: 0, remote count: 462
+local count: 0, remote count: 30
+local count: 0, remote count: 477
+local count: 0, remote count: 2603
+local count: 0, remote count: 20
+local count: 0, remote count: 345
+local count: 0, remote count: 23
+local count: 0, remote count: 22
+local count: 0, remote count: 76
+local count: 0, remote count: 103
+local count: 0, remote count: 343
+local count: 0, remote count: 83
+local count: 0, remote count: 185
+local count: 0, remote count: 138
+local count: 0, remote count: 78
+local count: 0, remote count: 69
+local count: 0, remote count: 119
+local count: 0, remote count: 44
+local count: 0, remote count: 81
+local count: 0, remote count: 408
+local count: 0, remote count: 93
+local count: 0, remote count: 212
+local count: 0, remote count: 80
+local count: 0, remote count: 64
+local count: 0, remote count: 106
+local count: 0, remote count: 28
+local count: 0, remote count: 62
+local count: 0, remote count: 577
+local count: 0, remote count: 182
+local count: 0, remote count: 95
+local count: 0, remote count: 30
+local count: 0, remote count: 93
+local count: 0, remote count: 35
+local count: 0, remote count: 174
+local count: 0, remote count: 150
+local count: 0, remote count: 101
+local count: 0, remote count: 141
+local count: 0, remote count: 53
+local count: 0, remote count: 43
+local count: 0, remote count: 33
+local count: 0, remote count: 576
+local count: 0, remote count: 201
+local count: 0, remote count: 101
+local count: 0, remote count: 178
+local count: 0, remote count: 174
+local count: 0, remote count: 21
+local count: 0, remote count: 4665
+local count: 0, remote count: 115
+local count: 0, remote count: 32
+local count: 0, remote count: 598
+local count: 0, remote count: 31
+local count: 0, remote count: 40
+local count: 0, remote count: 220
+local count: 0, remote count: 27
+local count: 0, remote count: 23
+local count: 0, remote count: 87
+local count: 0, remote count: 100
+local count: 0, remote count: 23
+local count: 0, remote count: 140
+local count: 0, remote count: 37
+local count: 0, remote count: 34
+local count: 0, remote count: 253
+local count: 0, remote count: 263
+local count: 0, remote count: 41
+local count: 0, remote count: 3851
+local count: 0, remote count: 156
+local count: 0, remote count: 70
+local count: 0, remote count: 86
+local count: 0, remote count: 568
+local count: 0, remote count: 220
+local count: 0, remote count: 59
+local count: 0, remote count: 70
+local count: 0, remote count: 20
+local count: 0, remote count: 42
+local count: 0, remote count: 36
+local count: 0, remote count: 190
+local count: 0, remote count: 991
+local count: 0, remote count: 32
+local count: 0, remote count: 107
+local count: 0, remote count: 24
+local count: 0, remote count: 79
+local count: 0, remote count: 580
+local count: 0, remote count: 152
+local count: 0, remote count: 51
+local count: 0, remote count: 714
+local count: 0, remote count: 33
+local count: 0, remote count: 640
+local count: 0, remote count: 227
+local count: 0, remote count: 232
+local count: 0, remote count: 82
+local count: 0, remote count: 30
+local count: 0, remote count: 27
+local count: 0, remote count: 940
+local count: 0, remote count: 573
+local count: 0, remote count: 25
+local count: 0, remote count: 1713
+local count: 0, remote count: 31
+local count: 0, remote count: 20
+local count: 0, remote count: 52
+local count: 0, remote count: 455
+local count: 0, remote count: 68
+local count: 0, remote count: 132
+local count: 0, remote count: 1016
+local count: 0, remote count: 154
+local count: 0, remote count: 33
+local count: 0, remote count: 74
+local count: 0, remote count: 309
+local count: 0, remote count: 41
+local count: 0, remote count: 179
+local count: 0, remote count: 2336
+local count: 0, remote count: 100
+local count: 0, remote count: 105
+local count: 0, remote count: 16
+local count: 0, remote count: 73
+local count: 0, remote count: 70
+local count: 0, remote count: 458
+local count: 0, remote count: 248
+local count: 0, remote count: 21
+local count: 0, remote count: 16
+local count: 0, remote count: 272
+local count: 0, remote count: 42
+local count: 0, remote count: 119
+local count: 0, remote count: 156
+local count: 0, remote count: 27
+local count: 0, remote count: 105
+local count: 0, remote count: 712
+local count: 0, remote count: 26
+local count: 0, remote count: 25
+local count: 0, remote count: 73
+local count: 0, remote count: 36
+local count: 0, remote count: 943
+local count: 0, remote count: 27
+local count: 0, remote count: 21
+local count: 0, remote count: 152
+local count: 0, remote count: 211
+local count: 0, remote count: 139
+local count: 0, remote count: 90
+local count: 0, remote count: 27
+local count: 0, remote count: 175
+local count: 0, remote count: 26
+local count: 0, remote count: 20
+local count: 0, remote count: 28
+local count: 0, remote count: 110
+local count: 0, remote count: 1351
+local count: 0, remote count: 119
+local count: 0, remote count: 193
+local count: 0, remote count: 71
+local count: 0, remote count: 158
+local count: 0, remote count: 34
+local count: 0, remote count: 54
+local count: 0, remote count: 49
+local count: 0, remote count: 185
+local count: 0, remote count: 31
+local count: 0, remote count: 52
+local count: 0, remote count: 227
+local count: 0, remote count: 77
+local count: 0, remote count: 153
+local count: 0, remote count: 5118
+local count: 0, remote count: 47
+local count: 0, remote count: 2583
+local count: 0, remote count: 343
+local count: 0, remote count: 26
+local count: 0, remote count: 42
+local count: 0, remote count: 293
+local count: 0, remote count: 31
+local count: 0, remote count: 31
+local count: 0, remote count: 28
+local count: 0, remote count: 22
+local count: 0, remote count: 37
+local count: 0, remote count: 196
+local count: 0, remote count: 56
+local count: 0, remote count: 103
+local count: 0, remote count: 391
+local count: 0, remote count: 2520
+local count: 0, remote count: 276
+local count: 0, remote count: 448
+local count: 0, remote count: 34
+local count: 0, remote count: 28
+local count: 0, remote count: 252
+local count: 0, remote count: 1666
+local count: 0, remote count: 407
+local count: 0, remote count: 270
+local count: 0, remote count: 48
+local count: 0, remote count: 38
+local count: 0, remote count: 63
+local count: 0, remote count: 19
+local count: 0, remote count: 305
+local count: 0, remote count: 55
+local count: 0, remote count: 270
+local count: 0, remote count: 372
+local count: 0, remote count: 61
+local count: 0, remote count: 33
+local count: 0, remote count: 74
+local count: 0, remote count: 30
+local count: 0, remote count: 699
+local count: 0, remote count: 66
+local count: 0, remote count: 60
+local count: 0, remote count: 37
+local count: 0, remote count: 560
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 0, remote count: 194
+local count: 0, remote count: 119
+local count: 0, remote count: 536
+local count: 0, remote count: 25
+local count: 0, remote count: 1486
+local count: 0, remote count: 36
+local count: 0, remote count: 53
+local count: 0, remote count: 113
+local count: 0, remote count: 36
+local count: 0, remote count: 88
+local count: 0, remote count: 319
+local count: 0, remote count: 85
+local count: 0, remote count: 739
+local count: 0, remote count: 65
+local count: 0, remote count: 94
+local count: 0, remote count: 980
+local count: 0, remote count: 67
+local count: 0, remote count: 48
+local count: 0, remote count: 83
+local count: 0, remote count: 262
+local count: 0, remote count: 27
+local count: 0, remote count: 10
+local count: 0, remote count: 313
+local count: 0, remote count: 32
+local count: 0, remote count: 30
+local count: 0, remote count: 27
+local count: 0, remote count: 142
+local count: 0, remote count: 78
+local count: 0, remote count: 144
+local count: 0, remote count: 29
+local count: 0, remote count: 1625
+local count: 0, remote count: 49
+local count: 0, remote count: 73
+local count: 0, remote count: 40
+local count: 0, remote count: 21
+local count: 0, remote count: 356
+local count: 0, remote count: 83
+local count: 0, remote count: 55
+local count: 0, remote count: 581
+local count: 0, remote count: 21
+local count: 0, remote count: 208
+local count: 0, remote count: 23
+local count: 0, remote count: 70
+local count: 0, remote count: 65
+local count: 0, remote count: 31
+local count: 0, remote count: 322
+local count: 0, remote count: 65
+local count: 0, remote count: 804
+local count: 0, remote count: 270
+local count: 0, remote count: 472
+local count: 58, remote count: 58
+jump 吃鸡
+local count: 38, remote count: 40
+local count: 0, remote count: 129
+local count: 0, remote count: 88
+local count: 20, remote count: 20
+jump 你好污
+local count: 40, remote count: 40
+jump 发生了什么
+local count: 517, remote count: 517
+jump 比心
+local count: 986, remote count: 990
+local count: 407, remote count: 407
+jump 不开森
+local count: 248, remote count: 248
+jump 人呢
+local count: 262, remote count: 262
+jump 来打我啊
+local count: 28, remote count: 28
+jump 好基友
+local count: 227, remote count: 227
+jump 666
+local count: 52, remote count: 52
+jump 静静地
+local count: 55, remote count: 55
+jump 噗
+local count: 63, remote count: 63
+jump 咬我啊
+local count: 2594, remote count: 2603
+local count: 10, remote count: 10
+jump 有前途
+local count: 29, remote count: 29
+jump 服不服
+local count: 27, remote count: 27
+jump 笑一个
+local count: 196, remote count: 196
+jump 老公
+local count: 73, remote count: 73
+jump 快点
+local count: 345, remote count: 345
+jump 打你
+local count: 1713, remote count: 1713
+jump 鹿晗
+local count: 28, remote count: 28
+jump 你最棒
+local count: 27, remote count: 27
+jump 不爱我
+local count: 32, remote count: 32
+jump 有点意思
+local count: 342, remote count: 343
+local count: 16, remote count: 16
+jump 妥妥的
+local count: 930, remote count: 940
+local count: 26, remote count: 26
+jump 好污
+local count: 208, remote count: 209
+local count: 263, remote count: 263
+jump 打我啊
+local count: 156, remote count: 156
+jump 暗中观察
+local count: 804, remote count: 804
+jump 什么
+local count: 41, remote count: 41
+jump 你的良心不会痛吗
+local count: 943, remote count: 943
+jump 委屈
+local count: 54, remote count: 54
+jump 原来是这样
+local count: 61, remote count: 61
+jump 别走
+local count: 70, remote count: 70
+jump 打屁屁
+local count: 21, remote count: 21
+jump 退下吧
+local count: 67, remote count: 67
+jump 举高高
+local count: 86, remote count: 86
+jump 我想静静
+local count: 182, remote count: 182
+jump stop
+local count: 93, remote count: 93
+jump 阿弥陀佛
+local count: 78, remote count: 78
+jump 大佬
+local count: 103, remote count: 103
+jump 来打我
+local count: 440, remote count: 440
+jump 呵呵
+local count: 40, remote count: 40
+jump 你咬我
+local count: 23, remote count: 23
+jump 哦哟哟
+local count: 25, remote count: 25
+jump biubiu
+local count: 101, remote count: 101
+jump 欺负人
+local count: 21, remote count: 21
+jump 不错哦
+local count: 139, remote count: 139
+jump 怪我喽
+local count: 313, remote count: 313
+jump 群主
+local count: 47, remote count: 47
+jump 胖虎
+local count: 65, remote count: 65
+jump 听不懂
+local count: 77, remote count: 77
+jump 我也很绝望啊
+local count: 174, remote count: 174
+jump 绿帽子
+local count: 200, remote count: 201
+local count: 55, remote count: 55
+jump 我竟无言以对
+local count: 138, remote count: 140
+local count: 22, remote count: 22
+jump 肚子饿
+local count: 370, remote count: 372
+local count: 270, remote count: 270
+jump 好无奈
+local count: 31, remote count: 31
+jump 切克闹
+local count: 25, remote count: 25
+jump 胡说八道
+local count: 319, remote count: 319
+jump 真棒
+local count: 3848, remote count: 3850
+local count: 153, remote count: 153
+jump 不
+local count: 16, remote count: 16
+jump 谦虚
+local count: 1011, remote count: 1015
+local count: 28, remote count: 28
+jump 没抢到
+local count: 220, remote count: 220
+jump 6
+local count: 582, remote count: 592
+local count: 30, remote count: 30
+jump 黑眼圈
+local count: 578, remote count: 580
+local count: 4664, remote count: 4661
+jump 可爱
+local count: 107, remote count: 107
+jump 我就笑笑
+local count: 74, remote count: 74
+jump 小拳拳
+local count: 30, remote count: 30
+jump 咋地
+local count: 154, remote count: 154
+jump 吓死宝宝了
+local count: 60, remote count: 60
+jump 人民币
+local count: 103, remote count: 103
+jump 好怕怕
+local count: 132, remote count: 132
+jump 生无可恋
+local count: 156, remote count: 156
+jump 打死你
+local count: 34, remote count: 34
+jump 你说得对
+local count: 211, remote count: 211
+jump 流口水
+local count: 42, remote count: 42
+jump 我最可爱
+local count: 32, remote count: 32
+jump 热成狗
+local count: 49, remote count: 49
+jump 小短腿
+local count: 448, remote count: 448
+jump 起来嗨
+local count: 73, remote count: 74
+local count: 93, remote count: 93
+jump 皮皮虾
+local count: 62, remote count: 62
+jump 你说的都对
+local count: 36, remote count: 36
+jump 不去
+local count: 20, remote count: 20
+jump 多喝热水
+local count: 193, remote count: 193
+jump 好吧
+local count: 275, remote count: 276
+local count: 34, remote count: 34
+jump 出来嗨
+local count: 429, remote count: 429
+jump 吐舌头
+local count: 31, remote count: 31
+jump 无敌
+local count: 81, remote count: 81
+jump biubiubiu
+local count: 739, remote count: 739
+jump 亲亲我
+local count: 24, remote count: 24
+jump 哎呦我去
+local count: 175, remote count: 176
+local count: 36, remote count: 36
+jump 干得漂亮
+local count: 142, remote count: 142
+jump 要哭了
+local count: 87, remote count: 87
+jump 垃圾游戏
+local count: 184, remote count: 185
+local count: 113, remote count: 113
+jump 流鼻血
+local count: 42, remote count: 42
+jump 女汉子
+local count: 391, remote count: 391
+jump 棒棒棒
+local count: 76, remote count: 76
+jump 这就很尴尬了
+local count: 27, remote count: 27
+jump 浪里个浪
+local count: 141, remote count: 141
+jump 宝宝心里苦
+local count: 699, remote count: 699
+jump 加油哦
+local count: 581, remote count: 581
+jump 哼
+local count: 119, remote count: 119
+jump 切
+local count: 31, remote count: 31
+jump 合作愉快
+local count: 152, remote count: 152
+jump 乖
+local count: 472, remote count: 473
+local count: 119, remote count: 119
+jump 歪?
+local count: 31, remote count: 31
+jump 渍渍渍
+local count: 1625, remote count: 1625
+jump 红包
+local count: 138, remote count: 138
+jump 儿子
+local count: 25, remote count: 25
+jump 再来一个
+local count: 220, remote count: 227
+local count: 577, remote count: 576
+jump 无语
+local count: 83, remote count: 83
+jump 不忍直视
+local count: 220, remote count: 220
+jump 我不听我不听
+local count: 53, remote count: 53
+jump 掐指一算
+local count: 33, remote count: 33
+jump 亲一口
+local count: 21, remote count: 21
+jump 瑟瑟发抖
+local count: 70, remote count: 70
+jump 打屁股
+local count: 35, remote count: 35
+jump 你再说一遍
+local count: 41, remote count: 41
+jump 不高兴
+local count: 105, remote count: 105
+jump 抱大腿
+local count: 23, remote count: 23
+jump 谢谢夸奖
+local count: 5118, remote count: 5118
+jump 猫
+local count: 468, remote count: 477
+local count: 573, remote count: 573
+jump 无聊
+local count: 152, remote count: 151
+jump 吃瓜群众
+local count: 79, remote count: 79
+jump 动次打次
+local count: 20, remote count: 20
+jump 要你管
+local count: 253, remote count: 259
+local count: 174, remote count: 179
+local count: 272, remote count: 272
+jump 我错了
+local count: 2581, remote count: 2583
+local count: 623, remote count: 640
+local count: 33, remote count: 33
+jump 你给我等着
+local count: 31, remote count: 31
+jump 低调低调
+local count: 65, remote count: 65
+jump 委屈巴巴
+local count: 119, remote count: 119
+jump 歪
+local count: 27, remote count: 27
+jump 你在逗我
+local count: 65, remote count: 65
+jump 盗我图
+local count: 38, remote count: 38
+jump 泥奏凯
+local count: 106, remote count: 106
+jump 辣鸡
+local count: 143, remote count: 144
+local count: 593, remote count: 598
+local count: 42, remote count: 42
+jump 感觉身体被掏空
+local count: 26, remote count: 26
+jump 跟我走
+local count: 59, remote count: 59
+jump 要亲亲
+local count: 100, remote count: 100
+jump 心碎了
+local count: 80, remote count: 82
+local count: 44, remote count: 44
+jump 我的小可爱
+local count: 560, remote count: 560
+jump 尴尬
+local count: 30, remote count: 30
+jump 好害羞
+local count: 174, remote count: 174
+jump 原谅帽
+local count: 36, remote count: 36
+jump 看不见
+local count: 73, remote count: 73
+jump 傻子
+local count: 575, remote count: 576
+local count: 270, remote count: 270
+jump 楼上
+local count: 536, remote count: 536
+jump 好害怕
+local count: 33, remote count: 33
+jump 不活了
+local count: 85, remote count: 85
+jump 棒棒的
+local count: 558, remote count: 568
+local count: 150, remote count: 150
+jump 智障
+local count: 669, remote count: 713
+local count: 26, remote count: 26
+jump 带你飞
+local count: 21, remote count: 21
+jump 机智如我
+local count: 69, remote count: 69
+jump 不想活了
+local count: 23, remote count: 23
+jump 好期待
+local count: 158, remote count: 158
+jump 好冷啊
+local count: 33, remote count: 33
+jump 拖出去
+local count: 453, remote count: 455
+local count: 66, remote count: 66
+jump 你咋不上天
+local count: 83, remote count: 83
+jump 你真棒
+local count: 449, remote count: 458
+local count: 37, remote count: 37
+jump 我不服
+local count: 28, remote count: 28
+jump 天啦噜
+local count: 37, remote count: 37
+jump 给你吃
+local count: 1486, remote count: 1486
+jump 亲亲
+local count: 19, remote count: 19
+jump 一路走好
+local count: 237, remote count: 237
+jump 我错了嘛
+local count: 48, remote count: 48
+jump 好腻害
+local count: 293, remote count: 293
+jump 嘿嘿
+local count: 2334, remote count: 2336
+local count: 27, remote count: 27
+jump 我差点就信了
+local count: 34, remote count: 34
+jump 笑出声
+local count: 68, remote count: 68
+jump 说的对
+local count: 33, remote count: 33
+jump 你好棒
+local count: 1665, remote count: 1666
+local count: 64, remote count: 64
+jump 哦买嘎
+local count: 43, remote count: 43
+jump 一本正经
+local count: 52, remote count: 52
+jump 我
+local count: 242, remote count: 252
+local count: 71, remote count: 71
+jump 亲亲抱抱举高高
+local count: 462, remote count: 462
+jump 猪
+local count: 355, remote count: 356
+local count: 305, remote count: 305
+jump 我打你
+local count: 230, remote count: 232
+local count: 185, remote count: 185
+jump 人呢人呢
+local count: 408, remote count: 408
+jump 嫌弃
+local count: 110, remote count: 110
+jump biu
+local count: 70, remote count: 70
+jump 佩服佩服
+local count: 322, remote count: 322
+jump 看着你
+local count: 115, remote count: 115
+jump 互相伤害
+local count: 36, remote count: 36
+jump 求安慰
+local count: 178, remote count: 178
+jump ?
+local count: 56, remote count: 56
+jump 无话可说
+local count: 21, remote count: 21
+jump 大骗子
+local count: 23, remote count: 23
+jump 太污了
+local count: 190, remote count: 190
+jump 嘻嘻
+local count: 193, remote count: 193
+jump 没有
+local count: 53, remote count: 53
+jump 欢迎新人
+local count: 100, remote count: 100
+jump 惊呆了
+local count: 31, remote count: 31
+jump 你在逗我吗
+local count: 90, remote count: 90
+jump 懵逼了
+local count: 95, remote count: 95
+jump 再说一遍
+local count: 80, remote count: 80
+jump 交个朋友吧
+local count: 78, remote count: 78
+jump 我也很绝望
+local count: 26, remote count: 26
+jump 嫁给我
+local count: 127, remote count: 127
+jump 看好你
+local count: 92, remote count: 94
+local count: 70, remote count: 70
+jump 怕了吧
+local count: 22, remote count: 22
+jump 那你很棒棒
+local count: 104, remote count: 105
+local count: 1350, remote count: 1351
+local count: 88, remote count: 88
+jump 懒得理你
+local count: 37, remote count: 37
+jump 我最帅
+local count: 37, remote count: 37
+jump 不嘛不嘛
+local count: 671, remote count: 715
+local count: 119, remote count: 119
+jump 略略略
+local count: 30, remote count: 30
+jump 造作啊
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 49, remote count: 49
+jump 杀马特
+local count: 27, remote count: 27
+jump 不要生气
+local count: 20, remote count: 20
+jump 不喜欢你了
+local count: 32, remote count: 32
+jump 心好痛
+local count: 51, remote count: 51
+jump 老司机带带我
+local count: 28, remote count: 28
+jump 没人理我
+local count: 70, remote count: 73
+local count: 30, remote count: 30
+jump 扎心了老铁
+local count: 101, remote count: 101
+jump 哭了
+local count: 343, remote count: 343
+jump 捂脸
+local count: 270, remote count: 270
+jump 无奈
+local count: 308, remote count: 309
+local count: 2517, remote count: 2520
+local count: 48, remote count: 48
+jump 快活啊
+local count: 38, remote count: 42
+local count: 212, remote count: 212
+jump 学习
+local count: 970, remote count: 980
+local count: 83, remote count: 83
+jump 不听不听
+local count: 27, remote count: 27
+jump 啊啊啊
+local count: 0, remote count: 58
+local count: 0, remote count: 40
+local count: 0, remote count: 63
+local count: 0, remote count: 88
+local count: 0, remote count: 76
+local count: 0, remote count: 33
+local count: 0, remote count: 449
+local count: 0, remote count: 28
+local count: 0, remote count: 103
+local count: 0, remote count: 23
+local count: 0, remote count: 25
+local count: 0, remote count: 83
+local count: 0, remote count: 455
+local count: 0, remote count: 473
+local count: 0, remote count: 345
+local count: 0, remote count: 2332
+local count: 0, remote count: 592
+local count: 0, remote count: 270
+local count: 0, remote count: 82
+local count: 0, remote count: 25
+local count: 0, remote count: 237
+local count: 0, remote count: 429
+local count: 0, remote count: 37
+local count: 0, remote count: 139
+local count: 0, remote count: 270
+local count: 0, remote count: 27
+local count: 0, remote count: 101
+local count: 0, remote count: 20
+local count: 0, remote count: 28
+local count: 0, remote count: 26
+local count: 0, remote count: 568
+local count: 0, remote count: 26
+local count: 0, remote count: 49
+local count: 0, remote count: 174
+local count: 0, remote count: 119
+local count: 0, remote count: 227
+local count: 0, remote count: 19
+local count: 0, remote count: 28
+local count: 0, remote count: 196
+local count: 0, remote count: 153
+local count: 0, remote count: 65
+local count: 0, remote count: 119
+local count: 0, remote count: 74
+local count: 0, remote count: 73
+local count: 0, remote count: 127
+local count: 0, remote count: 3850
+local count: 0, remote count: 313
+local count: 0, remote count: 22
+local count: 0, remote count: 42
+local count: 0, remote count: 343
+local count: 0, remote count: 93
+local count: 0, remote count: 51
+local count: 0, remote count: 182
+local count: 0, remote count: 201
+local count: 0, remote count: 248
+local count: 0, remote count: 27
+local count: 0, remote count: 30
+local count: 0, remote count: 28
+local count: 0, remote count: 41
+local count: 0, remote count: 100
+local count: 0, remote count: 31
+local count: 0, remote count: 152
+local count: 0, remote count: 560
+local count: 0, remote count: 185
+local count: 0, remote count: 391
+local count: 0, remote count: 42
+local count: 0, remote count: 65
+local count: 0, remote count: 31
+local count: 0, remote count: 106
+local count: 0, remote count: 407
+local count: 0, remote count: 52
+local count: 0, remote count: 476
+local count: 0, remote count: 322
+local count: 0, remote count: 943
+local count: 0, remote count: 4660
+local count: 0, remote count: 319
+local count: 0, remote count: 88
+local count: 0, remote count: 31
+local count: 0, remote count: 517
+local count: 0, remote count: 79
+local count: 0, remote count: 36
+local count: 0, remote count: 103
+local count: 0, remote count: 42
+local count: 0, remote count: 35
+local count: 0, remote count: 457
+local count: 0, remote count: 105
+local count: 0, remote count: 94
+local count: 0, remote count: 178
+local count: 0, remote count: 48
+local count: 0, remote count: 21
+local count: 0, remote count: 107
+local count: 0, remote count: 113
+local count: 0, remote count: 36
+local count: 0, remote count: 270
+local count: 0, remote count: 227
+local count: 0, remote count: 59
+local count: 0, remote count: 30
+local count: 0, remote count: 73
+local count: 0, remote count: 26
+local count: 0, remote count: 356
+local count: 0, remote count: 70
+local count: 0, remote count: 22
+local count: 0, remote count: 68
+local count: 0, remote count: 78
+local count: 0, remote count: 25
+local count: 0, remote count: 1486
+local count: 0, remote count: 62
+local count: 0, remote count: 176
+local count: 0, remote count: 209
+local count: 0, remote count: 119
+local count: 0, remote count: 26
+local count: 0, remote count: 1666
+local count: 0, remote count: 32
+local count: 0, remote count: 715
+local count: 0, remote count: 2602
+local count: 0, remote count: 980
+local count: 0, remote count: 262
+local count: 0, remote count: 34
+local count: 0, remote count: 32
+local count: 0, remote count: 640
+local count: 0, remote count: 90
+local count: 0, remote count: 61
+local count: 0, remote count: 20
+local count: 0, remote count: 21
+local count: 0, remote count: 156
+local count: 0, remote count: 2585
+local count: 0, remote count: 1625
+local count: 0, remote count: 70
+local count: 0, remote count: 0
+jump 胖虎
+local count: 0, remote count: 29
+local count: 0, remote count: 31
+local count: 0, remote count: 73
+local count: 0, remote count: 154
+local count: 0, remote count: 34
+local count: 0, remote count: 232
+local count: 0, remote count: 804
+local count: 0, remote count: 30
+local count: 0, remote count: 132
+local count: 0, remote count: 41
+local count: 0, remote count: 63
+local count: 0, remote count: 101
+local count: 0, remote count: 140
+local count: 0, remote count: 37
+local count: 0, remote count: 52
+local count: 0, remote count: 990
+local count: 0, remote count: 713
+local count: 0, remote count: 220
+local count: 0, remote count: 52
+local count: 0, remote count: 56
+local count: 0, remote count: 100
+local count: 0, remote count: 31
+local count: 0, remote count: 95
+local count: 0, remote count: 36
+local count: 0, remote count: 65
+local count: 0, remote count: 27
+local count: 0, remote count: 150
+local count: 0, remote count: 144
+local count: 0, remote count: 20
+local count: 0, remote count: 31
+local count: 0, remote count: 27
+local count: 0, remote count: 42
+local count: 0, remote count: 440
+local count: 0, remote count: 190
+local count: 0, remote count: 20
+local count: 0, remote count: 53
+local count: 0, remote count: 54
+local count: 0, remote count: 259
+local count: 0, remote count: 174
+local count: 0, remote count: 580
+local count: 0, remote count: 30
+local count: 0, remote count: 5118
+local count: 0, remote count: 60
+local count: 0, remote count: 179
+local count: 0, remote count: 138
+local count: 0, remote count: 16
+local count: 0, remote count: 37
+local count: 0, remote count: 40
+local count: 0, remote count: 185
+local count: 0, remote count: 119
+local count: 0, remote count: 141
+local count: 0, remote count: 151
+local count: 0, remote count: 67
+local count: 0, remote count: 21
+local count: 0, remote count: 66
+local count: 0, remote count: 699
+local count: 0, remote count: 33
+local count: 0, remote count: 272
+local count: 0, remote count: 78
+local count: 0, remote count: 38
+local count: 0, remote count: 372
+local count: 0, remote count: 1351
+local count: 0, remote count: 33
+local count: 0, remote count: 23
+local count: 0, remote count: 576
+local count: 0, remote count: 142
+local count: 0, remote count: 276
+local count: 0, remote count: 115
+local count: 0, remote count: 93
+local count: 0, remote count: 83
+local count: 0, remote count: 23
+local count: 0, remote count: 462
+local count: 0, remote count: 28
+local count: 0, remote count: 40
+local count: 0, remote count: 70
+local count: 0, remote count: 309
+local count: 0, remote count: 158
+local count: 0, remote count: 33
+local count: 0, remote count: 71
+local count: 0, remote count: 83
+local count: 0, remote count: 293
+local count: 0, remote count: 36
+local count: 0, remote count: 37
+local count: 0, remote count: 23
+local count: 0, remote count: 193
+local count: 0, remote count: 156
+local count: 0, remote count: 536
+local count: 0, remote count: 343
+local count: 0, remote count: 220
+local count: 0, remote count: 27
+local count: 0, remote count: 21
+local count: 0, remote count: 87
+local count: 0, remote count: 27
+local count: 0, remote count: 581
+local count: 0, remote count: 2520
+local count: 0, remote count: 598
+local count: 0, remote count: 64
+local count: 0, remote count: 33
+local count: 0, remote count: 87
+local count: 0, remote count: 49
+local count: 0, remote count: 1015
+local count: 0, remote count: 252
+local count: 0, remote count: 85
+local count: 0, remote count: 573
+local count: 0, remote count: 70
+local count: 0, remote count: 193
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 0, remote count: 16
+local count: 0, remote count: 305
+local count: 0, remote count: 105
+local count: 0, remote count: 69
+local count: 0, remote count: 24
+local count: 0, remote count: 27
+local count: 0, remote count: 32
+local count: 0, remote count: 77
+local count: 0, remote count: 211
+local count: 0, remote count: 30
+local count: 0, remote count: 55
+local count: 0, remote count: 44
+local count: 0, remote count: 263
+local count: 0, remote count: 10
+local count: 0, remote count: 576
+local count: 0, remote count: 55
+local count: 0, remote count: 80
+local count: 0, remote count: 48
+local count: 0, remote count: 739
+local count: 0, remote count: 43
+local count: 0, remote count: 81
+local count: 0, remote count: 21
+local count: 0, remote count: 34
+local count: 0, remote count: 110
+local count: 0, remote count: 74
+local count: 0, remote count: 409
+local count: 0, remote count: 1713
+local count: 0, remote count: 940
+local count: 0, remote count: 212
+local count: 0, remote count: 67
+local count: 0, remote count: 67
+local count: 0, remote count: 67
+local count: 0, remote count: 49
+local count: 0, remote count: 4101
+local count: 0, remote count: 29
+local count: 0, remote count: 60
+local count: 0, remote count: 83
+local count: 0, remote count: 49
+local count: 0, remote count: 366
+local count: 0, remote count: 65
+local count: 0, remote count: 26
+local count: 0, remote count: 100
+local count: 0, remote count: 417
+local count: 0, remote count: 185
+local count: 0, remote count: 278
+local count: 0, remote count: 180
+local count: 0, remote count: 25
+local count: 0, remote count: 49
+local count: 0, remote count: 54
+local count: 0, remote count: 107
+local count: 0, remote count: 1022
+local count: 0, remote count: 28
+local count: 0, remote count: 55
+local count: 0, remote count: 273
+local count: 0, remote count: 156
+local count: 0, remote count: 105
+local count: 0, remote count: 32
+local count: 0, remote count: 24
+local count: 0, remote count: 201
+local count: 0, remote count: 25
+local count: 0, remote count: 152
+local count: 0, remote count: 605
+local count: 0, remote count: 25
+local count: 0, remote count: 61
+local count: 0, remote count: 87
+local count: 0, remote count: 22
+local count: 0, remote count: 32
+local count: 0, remote count: 272
+local count: 0, remote count: 48
+local count: 0, remote count: 28
+local count: 0, remote count: 114
+local count: 0, remote count: 44
+local count: 0, remote count: 90
+local count: 0, remote count: 461
+local count: 0, remote count: 105
+local count: 0, remote count: 227
+local count: 0, remote count: 41
+local count: 0, remote count: 252
+local count: 0, remote count: 346
+local count: 0, remote count: 455
+local count: 0, remote count: 1491
+local count: 0, remote count: 1672
+local count: 0, remote count: 16
+local count: 0, remote count: 2543
+local count: 0, remote count: 146
+local count: 0, remote count: 179
+local count: 0, remote count: 70
+local count: 0, remote count: 37
+local count: 0, remote count: 67
+local count: 0, remote count: 31
+local count: 0, remote count: 188
+local count: 0, remote count: 107
+local count: 0, remote count: 184
+local count: 0, remote count: 158
+local count: 0, remote count: 23
+local count: 0, remote count: 67
+local count: 0, remote count: 119
+local count: 0, remote count: 37
+local count: 0, remote count: 70
+local count: 0, remote count: 21
+local count: 0, remote count: 23
+local count: 0, remote count: 152
+local count: 0, remote count: 193
+local count: 0, remote count: 71
+local count: 0, remote count: 464
+local count: 0, remote count: 190
+local count: 0, remote count: 62
+local count: 0, remote count: 178
+local count: 0, remote count: 238
+local count: 0, remote count: 715
+local count: 0, remote count: 139
+local count: 0, remote count: 431
+local count: 0, remote count: 44
+local count: 0, remote count: 27
+local count: 0, remote count: 315
+local count: 0, remote count: 154
+local count: 0, remote count: 141
+local count: 0, remote count: 319
+local count: 0, remote count: 101
+local count: 0, remote count: 76
+local count: 0, remote count: 585
+local count: 0, remote count: 104
+local count: 0, remote count: 568
+local count: 0, remote count: 55
+local count: 0, remote count: 103
+local count: 0, remote count: 372
+local count: 0, remote count: 182
+local count: 0, remote count: 27
+local count: 0, remote count: 49
+local count: 0, remote count: 345
+local count: 0, remote count: 577
+local count: 0, remote count: 26
+local count: 0, remote count: 941
+local count: 0, remote count: 22
+local count: 0, remote count: 36
+local count: 0, remote count: 22
+local count: 0, remote count: 28
+local count: 0, remote count: 76
+local count: 0, remote count: 579
+local count: 0, remote count: 522
+local count: 0, remote count: 1359
+local count: 0, remote count: 10
+local count: 0, remote count: 110
+local count: 0, remote count: 94
+local count: 0, remote count: 263
+local count: 0, remote count: 32
+local count: 0, remote count: 142
+local count: 0, remote count: 32
+local count: 0, remote count: 21
+local count: 0, remote count: 19
+local count: 0, remote count: 121
+local count: 0, remote count: 2615
+local count: 0, remote count: 644
+local count: 0, remote count: 27
+local count: 0, remote count: 352
+local count: 0, remote count: 38
+local count: 0, remote count: 41
+local count: 0, remote count: 216
+local count: 0, remote count: 142
+local count: 0, remote count: 83
+local count: 0, remote count: 33
+local count: 0, remote count: 597
+local count: 0, remote count: 27
+local count: 0, remote count: 51
+local count: 0, remote count: 36
+local count: 0, remote count: 70
+local count: 0, remote count: 30
+local count: 0, remote count: 4664
+local count: 0, remote count: 248
+local count: 0, remote count: 5146
+local count: 0, remote count: 227
+local count: 0, remote count: 293
+local count: 0, remote count: 101
+local count: 0, remote count: 27
+local count: 0, remote count: 75
+local count: 0, remote count: 96
+local count: 0, remote count: 35
+local count: 0, remote count: 30
+local count: 0, remote count: 306
+local count: 0, remote count: 77
+local count: 0, remote count: 228
+local count: 0, remote count: 117
+local count: 0, remote count: 57
+local count: 0, remote count: 272
+local count: 0, remote count: 220
+local count: 0, remote count: 205
+local count: 0, remote count: 264
+local count: 0, remote count: 23
+local count: 0, remote count: 65
+local count: 0, remote count: 31
+local count: 0, remote count: 40
+local count: 0, remote count: 42
+local count: 0, remote count: 42
+local count: 0, remote count: 449
+local count: 0, remote count: 28
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 0, remote count: 1625
+local count: 0, remote count: 323
+local count: 0, remote count: 93
+local count: 0, remote count: 63
+local count: 0, remote count: 127
+local count: 0, remote count: 30
+local count: 0, remote count: 119
+local count: 0, remote count: 35
+local count: 0, remote count: 64
+local count: 0, remote count: 28
+local count: 0, remote count: 21
+local count: 0, remote count: 142
+local count: 0, remote count: 44
+local count: 0, remote count: 101
+local count: 0, remote count: 277
+local count: 0, remote count: 52
+local count: 0, remote count: 2606
+local count: 0, remote count: 221
+local count: 0, remote count: 34
+local count: 0, remote count: 155
+local count: 0, remote count: 981
+local count: 0, remote count: 20
+local count: 0, remote count: 30
+local count: 0, remote count: 32
+local count: 0, remote count: 69
+local count: 0, remote count: 55
+local count: 0, remote count: 154
+local count: 0, remote count: 34
+local count: 0, remote count: 71
+local count: 0, remote count: 500
+local count: 0, remote count: 1713
+local count: 0, remote count: 89
+local count: 0, remote count: 544
+local count: 0, remote count: 85
+local count: 0, remote count: 119
+local count: 0, remote count: 457
+local count: 0, remote count: 584
+local count: 0, remote count: 812
+local count: 0, remote count: 66
+local count: 0, remote count: 43
+local count: 0, remote count: 238
+local count: 0, remote count: 713
+local count: 0, remote count: 34
+local count: 0, remote count: 23
+local count: 0, remote count: 562
+local count: 0, remote count: 392
+local count: 0, remote count: 38
+local count: 0, remote count: 28
+local count: 0, remote count: 27
+local count: 0, remote count: 42
+local count: 0, remote count: 20
+local count: 0, remote count: 266
+local count: 0, remote count: 37
+local count: 0, remote count: 79
+local count: 0, remote count: 29
+local count: 0, remote count: 73
+local count: 0, remote count: 33
+local count: 0, remote count: 52
+local count: 0, remote count: 33
+local count: 0, remote count: 409
+local count: 0, remote count: 20
+local count: 0, remote count: 309
+local count: 0, remote count: 81
+local count: 0, remote count: 184
+local count: 0, remote count: 42
+local count: 0, remote count: 53
+local count: 0, remote count: 78
+local count: 0, remote count: 951
+local count: 0, remote count: 132
+local count: 0, remote count: 33
+local count: 0, remote count: 86
+local count: 0, remote count: 31
+local count: 0, remote count: 70
+local count: 0, remote count: 740
+local count: 0, remote count: 20
+local count: 0, remote count: 88
+local count: 0, remote count: 212
+local count: 0, remote count: 84
+local count: 0, remote count: 480
+local count: 0, remote count: 79
+local count: 0, remote count: 33
+local count: 0, remote count: 16
+local count: 0, remote count: 33
+local count: 0, remote count: 700
+local count: 0, remote count: 63
+local count: 0, remote count: 74
+local count: 0, remote count: 217
+local count: 0, remote count: 23
+local count: 0, remote count: 27
+local count: 0, remote count: 35
+local count: 0, remote count: 2335
+local count: 0, remote count: 997
+local count: 0, remote count: 95
+local count: 0, remote count: 40
+local count: 0, remote count: 586
+local count: 0, remote count: 164
+local count: 0, remote count: 82
+local count: 0, remote count: 31
+local count: 0, remote count: 37
+local count: 67, remote count: 67
+jump 猪小屁
+local count: 49, remote count: 49
+jump 王牌保镖
+local count: 4098, remote count: 4107
+local count: 0, remote count: 66
+local count: 60, remote count: 60
+jump 要亲亲
+local count: 10, remote count: 10
+jump 有前途
+local count: 471, remote count: 480
+local count: 221, remote count: 221
+jump 我不听我不听
+local count: 119, remote count: 119
+jump 歪
+local count: 117, remote count: 117
+jump 互相伤害
+local count: 87, remote count: 87
+jump 垃圾游戏
+local count: 100, remote count: 100
+jump 心碎了
+local count: 352, remote count: 352
+jump 捂脸
+local count: 31, remote count: 31
+jump 无敌
+local count: 16, remote count: 16
+jump 谦虚
+local count: 277, remote count: 278
+local count: 93, remote count: 93
+jump 阿弥陀佛
+local count: 31, remote count: 31
+jump 切克闹
+local count: 63, remote count: 63
+jump 人民币
+local count: 27, remote count: 27
+jump 你在逗我
+local count: 49, remote count: 49
+jump 杀马特
+local count: 672, remote count: 716
+local count: 69, remote count: 69
+jump 说的对
+local count: 32, remote count: 32
+jump 心好痛
+local count: 52, remote count: 52
+jump 掐指一算
+local count: 34, remote count: 34
+jump 拖出去
+local count: 119, remote count: 119
+jump 切
+local count: 464, remote count: 464
+jump 猪
+local count: 119, remote count: 119
+jump 歪?
+local count: 2604, remote count: 2607
+local count: 20, remote count: 20
+jump 要你管
+local count: 42, remote count: 42
+jump 感觉身体被掏空
+local count: 31, remote count: 31
+jump 你在逗我吗
+local count: 83, remote count: 83
+jump 不忍直视
+local count: 187, remote count: 188
+local count: 992, remote count: 997
+local count: 71, remote count: 74
+local count: 26, remote count: 26
+jump 跟我走
+local count: 94, remote count: 96
+local count: 101, remote count: 101
+jump 欺负人
+local count: 184, remote count: 184
+jump 绿帽子
+local count: 263, remote count: 263
+jump 来打我啊
+local count: 30, remote count: 30
+jump 造作啊
+local count: 142, remote count: 142
+jump 要哭了
+local count: 156, remote count: 156
+jump 暗中观察
+local count: 453, remote count: 455
+local count: 431, remote count: 431
+jump 吐舌头
+local count: 308, remote count: 309
+local count: 2606, remote count: 2614
+local count: 67, remote count: 67
+jump 你咋不上天
+local count: 33, remote count: 33
+jump 亲一口
+local count: 132, remote count: 132
+jump 生无可恋
+local count: 20, remote count: 20
+jump 你好污
+local count: 201, remote count: 201
+jump 老公
+local count: 1671, remote count: 1672
+local count: 53, remote count: 53
+jump 欢迎新人
+local count: 34, remote count: 34
+jump 出来嗨
+local count: 178, remote count: 178
+jump ?
+local count: 4663, remote count: 4665
+local count: 272, remote count: 272
+jump 无奈
+local count: 158, remote count: 158
+jump 好冷啊
+local count: 1625, remote count: 1626
+local count: 139, remote count: 139
+jump 怪我喽
+local count: 154, remote count: 156
+local count: 28, remote count: 28
+jump 好基友
+local count: 180, remote count: 180
+jump 胖子
+local count: 2540, remote count: 2546
+local count: 204, remote count: 209
+local count: 28, remote count: 28
+jump 没人理我
+local count: 577, remote count: 577
+jump 无语
+local count: 185, remote count: 185
+jump 人呢人呢
+local count: 23, remote count: 23
+jump 肚子饿
+local count: 19, remote count: 19
+jump 一路走好
+local count: 32, remote count: 32
+jump 热成狗
+local count: 20, remote count: 20
+jump 不喜欢你了
+local count: 104, remote count: 104
+jump 好怕怕
+local count: 37, remote count: 37
+jump 我最帅
+local count: 34, remote count: 34
+jump 笑出声
+local count: 88, remote count: 88
+jump 懒得理你
+local count: 558, remote count: 569
+local count: 49, remote count: 49
+jump 小短腿
+local count: 85, remote count: 85
+jump 棒棒的
+local count: 79, remote count: 79
+jump 动次打次
+local count: 236, remote count: 238
+local count: 35, remote count: 35
+jump 不爱我
+local count: 55, remote count: 55
+jump 噗
+local count: 76, remote count: 76
+jump 这就很尴尬了
+local count: 64, remote count: 64
+jump 哦买嘎
+local count: 700, remote count: 700
+jump 加油哦
+local count: 28, remote count: 28
+jump 不要生气
+local count: 21, remote count: 21
+jump 多喝热水
+local count: 315, remote count: 315
+jump 群主
+local count: 5146, remote count: 5146
+jump 猫
+local count: 174, remote count: 179
+local count: 22, remote count: 22
+jump 大骗子
+local count: 101, remote count: 101
+jump 哭了
+local count: 33, remote count: 33
+jump 你给我等着
+local count: 30, remote count: 30
+jump 好害羞
+local count: 1713, remote count: 1713
+jump 鹿晗
+local count: 30, remote count: 30
+jump 咋地
+local count: 44, remote count: 44
+jump 一本正经
+local count: 55, remote count: 55
+jump 原来是这样
+local count: 27, remote count: 27
+jump 浪里个浪
+local count: 370, remote count: 372
+local count: 27, remote count: 27
+jump 我差点就信了
+local count: 71, remote count: 71
+jump 不想活了
+local count: 38, remote count: 38
+jump 泥奏凯
+local count: 70, remote count: 70
+jump 打屁股
+local count: 27, remote count: 27
+jump 嫁给我
+local count: 44, remote count: 44
+jump 我的小可爱
+local count: 154, remote count: 158
+local count: 49, remote count: 49
+jump 快活啊
+local count: 23, remote count: 23
+jump 哦哟哟
+local count: 35, remote count: 35
+jump 你说得对
+local count: 51, remote count: 51
+jump 老司机带带我
+local count: 101, remote count: 101
+jump 惊呆了
+local count: 77, remote count: 77
+jump 我也很绝望啊
+local count: 587, remote count: 597
+local count: 61, remote count: 61
+jump 别走
+local count: 110, remote count: 110
+jump biu
+local count: 627, remote count: 644
+local count: 319, remote count: 319
+jump 真棒
+local count: 192, remote count: 194
+local count: 31, remote count: 31
+jump 渍渍渍
+local count: 80, remote count: 82
+local count: 392, remote count: 392
+jump 棒棒棒
+local count: 71, remote count: 72
+local count: 812, remote count: 812
+jump 什么
+local count: 21, remote count: 21
+jump 机智如我
+local count: 20, remote count: 20
+jump biubiubiu
+local count: 41, remote count: 41
+jump 你的良心不会痛吗
+local count: 94, remote count: 94
+jump 皮皮虾
+local count: 228, remote count: 228
+jump 没有
+local count: 42, remote count: 42
+jump 女汉子
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 971, remote count: 981
+local count: 951, remote count: 954
+local count: 33, remote count: 33
+jump 你好棒
+local count: 272, remote count: 272
+jump 好无奈
+local count: 457, remote count: 457
+jump 呵呵
+local count: 190, remote count: 190
+jump 嘻嘻
+local count: 27, remote count: 27
+jump 好污
+local count: 227, remote count: 227
+jump 666
+local count: 65, remote count: 65
+jump 委屈巴巴
+local count: 37, remote count: 37
+jump 干得漂亮
+local count: 70, remote count: 70
+jump 打屁屁
+local count: 2333, remote count: 2335
+local count: 25, remote count: 25
+jump biubiu
+local count: 66, remote count: 66
+jump 听不懂
+local count: 141, remote count: 141
+jump 宝宝心里苦
+local count: 220, remote count: 227
+local count: 33, remote count: 33
+jump 黑眼圈
+local count: 1491, remote count: 1491
+jump 亲亲
+local count: 54, remote count: 54
+jump 我
+local count: 114, remote count: 114
+jump 流鼻血
+local count: 78, remote count: 78
+jump 我也很绝望
+local count: 52, remote count: 52
+jump 静静地
+local count: 306, remote count: 307
+local count: 21, remote count: 21
+jump 不错哦
+local count: 127, remote count: 127
+jump 看好你
+local count: 584, remote count: 585
+local count: 27, remote count: 27
+jump 啊啊啊
+local count: 23, remote count: 23
+jump 好期待
+local count: 86, remote count: 86
+jump 不听不听
+local count: 24, remote count: 24
+jump 哎呦我去
+local count: 38, remote count: 42
+local count: 75, remote count: 75
+jump 小拳拳
+local count: 57, remote count: 57
+jump 无话可说
+local count: 409, remote count: 409
+jump 不开森
+local count: 522, remote count: 522
+jump 比心
+local count: 30, remote count: 30
+jump 扎心了老铁
+local count: 365, remote count: 370
+local count: 238, remote count: 239
+local count: 740, remote count: 740
+jump 亲亲我
+local count: 1017, remote count: 1022
+local count: 41, remote count: 41
+jump 不高兴
+local count: 70, remote count: 70
+jump 怕了吧
+local count: 23, remote count: 23
+jump 谢谢夸奖
+local count: 48, remote count: 48
+jump 好腻害
+local count: 248, remote count: 248
+jump 人呢
+local count: 562, remote count: 562
+jump 尴尬
+local count: 164, remote count: 164
+jump 打死你
+local count: 266, remote count: 266
+jump 小仙女
+local count: 584, remote count: 585
+local count: 277, remote count: 277
+jump 楼上
+local count: 67, remote count: 67
+jump 举高高
+local count: 121, remote count: 121
+jump 略略略
+local count: 216, remote count: 216
+jump 学习
+local count: 22, remote count: 22
+jump 那你很棒棒
+local count: 107, remote count: 107
+jump 辣鸡
+local count: 26, remote count: 26
+jump 带你飞
+local count: 83, remote count: 83
+jump 你真棒
+local count: 84, remote count: 84
+jump 傻子
+local count: 35, remote count: 35
+jump 你再说一遍
+local count: 584, remote count: 586
+local count: 242, remote count: 253
+local count: 28, remote count: 28
+jump 你最棒
+local count: 23, remote count: 23
+jump 太污了
+local count: 16, remote count: 16
+jump 妥妥的
+local count: 28, remote count: 28
+jump 天啦噜
+local count: 104, remote count: 105
+local count: 931, remote count: 941
+local count: 103, remote count: 103
+jump 来打我
+local count: 25, remote count: 25
+jump 再来一个
+local count: 32, remote count: 32
+jump 合作愉快
+local count: 33, remote count: 33
+jump 不活了
+local count: 155, remote count: 157
+local count: 38, remote count: 38
+jump 给你吃
+local count: 152, remote count: 152
+jump 乖
+local count: 323, remote count: 323
+jump 看着你
+local count: 184, remote count: 184
+jump 原谅帽
+local count: 28, remote count: 28
+jump 没抢到
+local count: 36, remote count: 36
+jump 求安慰
+local count: 27, remote count: 27
+jump 笑一个
+local count: 212, remote count: 212
+jump 流口水
+local count: 32, remote count: 32
+jump 有点意思
+local count: 29, remote count: 29
+jump 服不服
+local count: 579, remote count: 580
+local count: 142, remote count: 142
+jump 儿子
+local count: 55, remote count: 55
+jump 我竟无言以对
+local count: 220, remote count: 220
+jump 6
+local count: 105, remote count: 105
+jump 抱大腿
+local count: 36, remote count: 36
+jump 看不见
+local count: 73, remote count: 73
+jump 快点
+local count: 145, remote count: 146
+local count: 182, remote count: 182
+jump stop
+local count: 1358, remote count: 1359
+local count: 90, remote count: 90
+jump 懵逼了
+local count: 264, remote count: 264
+jump 打我啊
+local count: 140, remote count: 142
+local count: 95, remote count: 95
+jump 再说一遍
+local count: 25, remote count: 25
+jump 胡说八道
+local count: 670, remote count: 714
+local count: 600, remote count: 605
+local count: 449, remote count: 449
+jump 起来嗨
+local count: 33, remote count: 33
+jump 退下吧
+local count: 22, remote count: 22
+jump 瑟瑟发抖
+local count: 62, remote count: 62
+jump 你说的都对
+local count: 65, remote count: 65
+jump 盗我图
+local count: 452, remote count: 461
+local count: 417, remote count: 417
+jump 嫌弃
+local count: 40, remote count: 40
+jump 你咬我
+local count: 37, remote count: 37
+jump 不去
+local count: 152, remote count: 152
+jump 吃瓜群众
+local count: 63, remote count: 63
+jump 咬我啊
+local count: 81, remote count: 81
+jump 交个朋友吧
+local count: 344, remote count: 345
+local count: 293, remote count: 293
+jump 嘿嘿
+local count: 346, remote count: 347
+local count: 500, remote count: 501
+local count: 70, remote count: 70
+jump 佩服佩服
+local count: 32, remote count: 32
+jump 低调低调
+local count: 544, remote count: 544
+jump 好害怕
+local count: 44, remote count: 44
+jump 胖虎
+local count: 75, remote count: 76
+local count: 37, remote count: 37
+jump 不嘛不嘛
+local count: 217, remote count: 217
+jump 我喜欢你
+local count: 89, remote count: 89
+jump 我想静静
+local count: 40, remote count: 40
+jump 发生了什么
+local count: 79, remote count: 79
+jump 大佬
+local count: 42, remote count: 42
+jump 我最可爱
+local count: 273, remote count: 274
+local count: 107, remote count: 107
+jump 我就笑笑
+local count: 43, remote count: 43
+jump 我不服
+local count: 67, remote count: 67
+jump 猪小屁
+local count: 49, remote count: 49
+jump 王牌保镖
+local count: 4104, remote count: 4107
+local count: 66, remote count: 66
+jump emmmm
+local count: 60, remote count: 60
+jump 要亲亲
+local count: 10, remote count: 10
+jump 有前途
+local count: 471, remote count: 480
+local count: 221, remote count: 221
+jump 我不听我不听
+local count: 119, remote count: 119
+jump 歪
+local count: 117, remote count: 117
+jump 互相伤害
+local count: 87, remote count: 87
+jump 垃圾游戏
+local count: 100, remote count: 100
+jump 心碎了
+local count: 352, remote count: 352
+jump 捂脸
+local count: 31, remote count: 31
+jump 无敌
+local count: 16, remote count: 16
+jump 谦虚
+local count: 277, remote count: 278
+local count: 93, remote count: 93
+jump 阿弥陀佛
+local count: 31, remote count: 31
+jump 切克闹
+local count: 63, remote count: 63
+jump 人民币
+local count: 27, remote count: 27
+jump 你在逗我
+local count: 49, remote count: 49
+jump 杀马特
+local count: 673, remote count: 716
+local count: 69, remote count: 69
+jump 说的对
+local count: 32, remote count: 32
+jump 心好痛
+local count: 52, remote count: 52
+jump 掐指一算
+local count: 34, remote count: 34
+jump 拖出去
+local count: 119, remote count: 119
+jump 切
+local count: 464, remote count: 464
+jump 猪
+local count: 119, remote count: 119
+jump 歪?
+local count: 2605, remote count: 2607
+local count: 20, remote count: 20
+jump 要你管
+local count: 42, remote count: 42
+jump 感觉身体被掏空
+local count: 31, remote count: 31
+jump 你在逗我吗
+local count: 83, remote count: 83
+jump 不忍直视
+local count: 187, remote count: 188
+local count: 992, remote count: 998
+local count: 71, remote count: 74
+local count: 26, remote count: 26
+jump 跟我走
+local count: 94, remote count: 96
+local count: 101, remote count: 101
+jump 欺负人
+local count: 184, remote count: 184
+jump 绿帽子
+local count: 263, remote count: 263
+jump 来打我啊
+local count: 30, remote count: 30
+jump 造作啊
+local count: 142, remote count: 142
+jump 要哭了
+local count: 156, remote count: 157
+local count: 453, remote count: 455
+local count: 431, remote count: 431
+jump 吐舌头
+local count: 308, remote count: 309
+local count: 2605, remote count: 2614
+local count: 67, remote count: 67
+jump 你咋不上天
+local count: 33, remote count: 33
+jump 亲一口
+local count: 132, remote count: 132
+jump 生无可恋
+local count: 20, remote count: 20
+jump 你好污
+local count: 201, remote count: 201
+jump 老公
+local count: 1671, remote count: 1672
+local count: 53, remote count: 53
+jump 欢迎新人
+local count: 34, remote count: 34
+jump 出来嗨
+local count: 178, remote count: 178
+jump ?
+local count: 4664, remote count: 4665
+local count: 272, remote count: 272
+jump 无奈
+local count: 158, remote count: 158
+jump 好冷啊
+local count: 1626, remote count: 1626
+jump 红包
+local count: 139, remote count: 139
+jump 怪我喽
+local count: 156, remote count: 157
+local count: 28, remote count: 28
+jump 好基友
+local count: 180, remote count: 180
+jump 胖子
+local count: 2543, remote count: 2547
+local count: 208, remote count: 214
+local count: 28, remote count: 28
+jump 没人理我
+local count: 577, remote count: 577
+jump 无语
+local count: 185, remote count: 185
+jump 人呢人呢
+local count: 23, remote count: 23
+jump 肚子饿
+local count: 19, remote count: 19
+jump 一路走好
+local count: 32, remote count: 32
+jump 热成狗
+local count: 20, remote count: 20
+jump 不喜欢你了
+local count: 104, remote count: 104
+jump 好怕怕
+local count: 37, remote count: 37
+jump 我最帅
+local count: 34, remote count: 34
+jump 笑出声
+local count: 88, remote count: 88
+jump 懒得理你
+local count: 559, remote count: 569
+local count: 49, remote count: 49
+jump 小短腿
+local count: 85, remote count: 85
+jump 棒棒的
+local count: 79, remote count: 79
+jump 动次打次
+local count: 236, remote count: 238
+local count: 35, remote count: 35
+jump 不爱我
+local count: 55, remote count: 55
+jump 噗
+local count: 76, remote count: 76
+jump 这就很尴尬了
+local count: 64, remote count: 64
+jump 哦买嘎
+local count: 700, remote count: 700
+jump 加油哦
+local count: 28, remote count: 28
+jump 不要生气
+local count: 21, remote count: 21
+jump 多喝热水
+local count: 315, remote count: 315
+jump 群主
+local count: 5146, remote count: 5146
+jump 猫
+local count: 174, remote count: 179
+local count: 22, remote count: 22
+jump 大骗子
+local count: 101, remote count: 101
+jump 哭了
+local count: 33, remote count: 33
+jump 你给我等着
+local count: 30, remote count: 30
+jump 好害羞
+local count: 1713, remote count: 1713
+jump 鹿晗
+local count: 30, remote count: 30
+jump 咋地
+local count: 44, remote count: 44
+jump 一本正经
+local count: 55, remote count: 55
+jump 原来是这样
+local count: 27, remote count: 27
+jump 浪里个浪
+local count: 370, remote count: 372
+local count: 27, remote count: 27
+jump 我差点就信了
+local count: 71, remote count: 71
+jump 不想活了
+local count: 38, remote count: 38
+jump 泥奏凯
+local count: 70, remote count: 70
+jump 打屁股
+local count: 27, remote count: 27
+jump 嫁给我
+local count: 44, remote count: 44
+jump 我的小可爱
+local count: 158, remote count: 158
+jump 吓死宝宝了
+local count: 49, remote count: 49
+jump 快活啊
+local count: 23, remote count: 23
+jump 哦哟哟
+local count: 35, remote count: 35
+jump 你说得对
+local count: 51, remote count: 51
+jump 老司机带带我
+local count: 101, remote count: 101
+jump 惊呆了
+local count: 77, remote count: 77
+jump 我也很绝望啊
+local count: 587, remote count: 597
+local count: 61, remote count: 61
+jump 别走
+local count: 110, remote count: 110
+jump biu
+local count: 627, remote count: 644
+local count: 319, remote count: 319
+jump 真棒
+local count: 193, remote count: 194
+local count: 31, remote count: 31
+jump 渍渍渍
+local count: 80, remote count: 82
+local count: 392, remote count: 392
+jump 棒棒棒
+local count: 72, remote count: 72
+jump 亲亲抱抱举高高
+local count: 812, remote count: 812
+jump 什么
+local count: 21, remote count: 21
+jump 机智如我
+local count: 20, remote count: 20
+jump biubiubiu
+local count: 41, remote count: 41
+jump 你的良心不会痛吗
+local count: 94, remote count: 94
+jump 皮皮虾
+local count: 228, remote count: 228
+jump 没有
+local count: 42, remote count: 42
+jump 女汉子
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 971, remote count: 981
+local count: 954, remote count: 954
+jump 委屈
+local count: 33, remote count: 33
+jump 你好棒
+local count: 272, remote count: 272
+jump 好无奈
+local count: 457, remote count: 457
+jump 呵呵
+local count: 190, remote count: 190
+jump 嘻嘻
+local count: 27, remote count: 27
+jump 好污
+local count: 227, remote count: 227
+jump 666
+local count: 65, remote count: 65
+jump 委屈巴巴
+local count: 37, remote count: 37
+jump 干得漂亮
+local count: 70, remote count: 70
+jump 打屁屁
+local count: 2333, remote count: 2335
+local count: 25, remote count: 25
+jump biubiu
+local count: 66, remote count: 66
+jump 听不懂
+local count: 141, remote count: 141
+jump 宝宝心里苦
+local count: 220, remote count: 227
+local count: 33, remote count: 33
+jump 黑眼圈
+local count: 1491, remote count: 1491
+jump 亲亲
+local count: 54, remote count: 54
+jump 我
+local count: 114, remote count: 114
+jump 流鼻血
+local count: 78, remote count: 78
+jump 我也很绝望
+local count: 52, remote count: 52
+jump 静静地
+local count: 307, remote count: 307
+jump 我打你
+local count: 21, remote count: 21
+jump 不错哦
+local count: 127, remote count: 127
+jump 看好你
+local count: 584, remote count: 585
+local count: 27, remote count: 27
+jump 啊啊啊
+local count: 23, remote count: 23
+jump 好期待
+local count: 86, remote count: 86
+jump 不听不听
+local count: 24, remote count: 24
+jump 哎呦我去
+local count: 38, remote count: 42
+local count: 75, remote count: 75
+jump 小拳拳
+local count: 57, remote count: 57
+jump 无话可说
+local count: 409, remote count: 409
+jump 不开森
+local count: 522, remote count: 522
+jump 比心
+local count: 30, remote count: 30
+jump 扎心了老铁
+local count: 369, remote count: 370
+local count: 239, remote count: 239
+jump 我错了嘛
+local count: 740, remote count: 740
+jump 亲亲我
+local count: 1017, remote count: 1023
+local count: 41, remote count: 41
+jump 不高兴
+local count: 70, remote count: 70
+jump 怕了吧
+local count: 23, remote count: 23
+jump 谢谢夸奖
+local count: 48, remote count: 48
+jump 好腻害
+local count: 248, remote count: 248
+jump 人呢
+local count: 562, remote count: 562
+jump 尴尬
+local count: 164, remote count: 164
+jump 打死你
+local count: 266, remote count: 266
+jump 小仙女
+local count: 585, remote count: 585
+jump 哼
+local count: 277, remote count: 277
+jump 楼上
+local count: 67, remote count: 67
+jump 举高高
+local count: 121, remote count: 121
+jump 略略略
+local count: 216, remote count: 216
+jump 学习
+local count: 22, remote count: 22
+jump 那你很棒棒
+local count: 107, remote count: 107
+jump 辣鸡
+local count: 26, remote count: 26
+jump 带你飞
+local count: 83, remote count: 83
+jump 你真棒
+local count: 84, remote count: 84
+jump 傻子
+local count: 35, remote count: 35
+jump 你再说一遍
+local count: 584, remote count: 586
+local count: 243, remote count: 253
+local count: 28, remote count: 28
+jump 你最棒
+local count: 23, remote count: 23
+jump 太污了
+local count: 16, remote count: 16
+jump 妥妥的
+local count: 28, remote count: 28
+jump 天啦噜
+local count: 104, remote count: 105
+local count: 931, remote count: 941
+local count: 103, remote count: 103
+jump 来打我
+local count: 25, remote count: 25
+jump 再来一个
+local count: 32, remote count: 32
+jump 合作愉快
+local count: 33, remote count: 33
+jump 不活了
+local count: 157, remote count: 157
+jump 不
+local count: 38, remote count: 38
+jump 给你吃
+local count: 152, remote count: 152
+jump 乖
+local count: 323, remote count: 323
+jump 看着你
+local count: 184, remote count: 184
+jump 原谅帽
+local count: 28, remote count: 28
+jump 没抢到
+local count: 36, remote count: 36
+jump 求安慰
+local count: 27, remote count: 27
+jump 笑一个
+local count: 212, remote count: 212
+jump 流口水
+local count: 32, remote count: 32
+jump 有点意思
+local count: 29, remote count: 29
+jump 服不服
+local count: 580, remote count: 580
+jump 无聊
+local count: 142, remote count: 142
+jump 儿子
+local count: 55, remote count: 55
+jump 我竟无言以对
+local count: 220, remote count: 220
+jump 6
+local count: 105, remote count: 105
+jump 抱大腿
+local count: 36, remote count: 36
+jump 看不见
+local count: 73, remote count: 73
+jump 快点
+local count: 145, remote count: 146
+local count: 182, remote count: 182
+jump stop
+local count: 1358, remote count: 1359
+local count: 90, remote count: 90
+jump 懵逼了
+local count: 264, remote count: 264
+jump 打我啊
+local count: 140, remote count: 142
+local count: 95, remote count: 95
+jump 再说一遍
+local count: 25, remote count: 25
+jump 胡说八道
+local count: 671, remote count: 714
+local count: 600, remote count: 605
+local count: 449, remote count: 449
+jump 起来嗨
+local count: 33, remote count: 33
+jump 退下吧
+local count: 22, remote count: 22
+jump 瑟瑟发抖
+local count: 62, remote count: 62
+jump 你说的都对
+local count: 65, remote count: 65
+jump 盗我图
+local count: 452, remote count: 461
+local count: 417, remote count: 417
+jump 嫌弃
+local count: 40, remote count: 40
+jump 你咬我
+local count: 37, remote count: 37
+jump 不去
+local count: 152, remote count: 152
+jump 吃瓜群众
+local count: 63, remote count: 63
+jump 咬我啊
+local count: 81, remote count: 81
+jump 交个朋友吧
+local count: 344, remote count: 345
+local count: 293, remote count: 293
+jump 嘿嘿
+local count: 347, remote count: 347
+jump 打你
+local count: 501, remote count: 501
+jump 滚
+local count: 70, remote count: 70
+jump 佩服佩服
+local count: 32, remote count: 32
+jump 低调低调
+local count: 544, remote count: 544
+jump 好害怕
+local count: 44, remote count: 44
+jump 胖虎
+local count: 75, remote count: 76
+local count: 37, remote count: 37
+jump 不嘛不嘛
+local count: 217, remote count: 217
+jump 我喜欢你
+local count: 89, remote count: 89
+jump 我想静静
+local count: 40, remote count: 40
+jump 发生了什么
+local count: 79, remote count: 79
+jump 大佬
+local count: 42, remote count: 42
+jump 我最可爱
+local count: 274, remote count: 274
+jump 我错了
+local count: 107, remote count: 107
+jump 我就笑笑
+local count: 43, remote count: 43
+jump 我不服
+local count: 67, remote count: 67
+jump 猪小屁
+local count: 49, remote count: 49
+jump 王牌保镖
+local count: 0, remote count: 472
+local count: 0, remote count: 643
+local count: 78, remote count: 78
+jump 我也很绝望
+local count: 93, remote count: 93
+jump 阿弥陀佛
+local count: 559, remote count: 569
+local count: 392, remote count: 392
+jump 棒棒棒
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 22, remote count: 22
+jump 那你很棒棒
+local count: 65, remote count: 65
+jump 委屈巴巴
+local count: 38, remote count: 38
+jump 泥奏凯
+local count: 83, remote count: 83
+jump 你真棒
+local count: 28, remote count: 28
+jump 不要生气
+local count: 27, remote count: 27
+jump 嫁给我
+local count: 117, remote count: 117
+jump 互相伤害
+local count: 158, remote count: 158
+jump 吓死宝宝了
+local count: 21, remote count: 21
+jump 不错哦
+local count: 544, remote count: 544
+jump 好害怕
+local count: 36, remote count: 36
+jump 看不见
+local count: 86, remote count: 86
+jump 不听不听
+local count: 264, remote count: 264
+jump 打我啊
+local count: 274, remote count: 274
+jump 我错了
+local count: 236, remote count: 238
+local count: 248, remote count: 248
+jump 人呢
+local count: 213, remote count: 220
+local count: 20, remote count: 20
+jump 不喜欢你了
+local count: 700, remote count: 700
+jump 加油哦
+local count: 33, remote count: 33
+jump 亲一口
+local count: 23, remote count: 23
+jump 哦哟哟
+local count: 157, remote count: 159
+local count: 71, remote count: 71
+jump 不想活了
+local count: 38, remote count: 38
+jump 给你吃
+local count: 457, remote count: 457
+jump 呵呵
+local count: 81, remote count: 81
+jump 交个朋友吧
+local count: 993, remote count: 998
+local count: 37, remote count: 37
+jump 我最帅
+local count: 307, remote count: 307
+jump 我打你
+local count: 29, remote count: 29
+jump 服不服
+local count: 101, remote count: 101
+jump 欺负人
+local count: 740, remote count: 740
+jump 亲亲我
+local count: 158, remote count: 158
+jump 好冷啊
+local count: 31, remote count: 31
+jump 渍渍渍
+local count: 21, remote count: 21
+jump 机智如我
+local count: 37, remote count: 37
+jump 干得漂亮
+local count: 100, remote count: 100
+jump 心碎了
+local count: 180, remote count: 180
+jump 胖子
+local count: 101, remote count: 101
+jump 惊呆了
+local count: 64, remote count: 64
+jump 哦买嘎
+local count: 55, remote count: 55
+jump 我竟无言以对
+local count: 971, remote count: 981
+local count: 16, remote count: 16
+jump 谦虚
+local count: 66, remote count: 66
+jump 听不懂
+local count: 1626, remote count: 1626
+jump 红包
+local count: 2544, remote count: 2547
+local count: 57, remote count: 57
+jump 无话可说
+local count: 28, remote count: 28
+jump 你最棒
+local count: 54, remote count: 54
+jump 我
+local count: 409, remote count: 409
+jump 不开森
+local count: 20, remote count: 20
+jump 要你管
+local count: 187, remote count: 188
+local count: 114, remote count: 114
+jump 流鼻血
+local count: 315, remote count: 315
+jump 群主
+local count: 60, remote count: 60
+jump 要亲亲
+local count: 132, remote count: 132
+jump 生无可恋
+local count: 75, remote count: 75
+jump 小拳拳
+local count: 464, remote count: 464
+jump 猪
+local count: 23, remote count: 23
+jump 肚子饿
+local count: 139, remote count: 139
+jump 怪我喽
+local count: 431, remote count: 431
+jump 吐舌头
+local count: 105, remote count: 105
+jump 抱大腿
+local count: 20, remote count: 20
+jump biubiubiu
+local count: 35, remote count: 35
+jump 你再说一遍
+local count: 70, remote count: 70
+jump 打屁屁
+local count: 182, remote count: 182
+jump stop
+local count: 28, remote count: 28
+jump 好基友
+local count: 27, remote count: 27
+jump 浪里个浪
+local count: 41, remote count: 41
+jump 不高兴
+local count: 34, remote count: 34
+jump 拖出去
+local count: 4104, remote count: 4108
+local count: 239, remote count: 239
+jump 我错了嘛
+local count: 1358, remote count: 1359
+local count: 1491, remote count: 1491
+jump 亲亲
+local count: 77, remote count: 77
+jump 我也很绝望啊
+local count: 103, remote count: 103
+jump 来打我
+local count: 24, remote count: 24
+jump 哎呦我去
+local count: 30, remote count: 30
+jump 好害羞
+local count: 185, remote count: 185
+jump 人呢人呢
+local count: 216, remote count: 216
+jump 学习
+local count: 70, remote count: 70
+jump 佩服佩服
+local count: 344, remote count: 345
+local count: 85, remote count: 85
+jump 棒棒的
+local count: 34, remote count: 34
+jump 出来嗨
+local count: 26, remote count: 26
+jump 带你飞
+local count: 164, remote count: 164
+jump 打死你
+local count: 31, remote count: 31
+jump 你在逗我吗
+local count: 21, remote count: 21
+jump 多喝热水
+local count: 671, remote count: 714
+local count: 40, remote count: 40
+jump 你咬我
+local count: 4664, remote count: 4665
+local count: 38, remote count: 42
+local count: 43, remote count: 43
+jump 我不服
+local count: 28, remote count: 28
+jump 天啦噜
+local count: 49, remote count: 49
+jump 杀马特
+local count: 184, remote count: 184
+jump 绿帽子
+local count: 347, remote count: 347
+jump 打你
+local count: 79, remote count: 79
+jump 大佬
+local count: 28, remote count: 28
+jump 没人理我
+local count: 63, remote count: 63
+jump 咬我啊
+local count: 184, remote count: 184
+jump 原谅帽
+local count: 369, remote count: 370
+local count: 52, remote count: 52
+jump 静静地
+local count: 32, remote count: 32
+jump 低调低调
+local count: 119, remote count: 119
+jump 歪?
+local count: 370, remote count: 372
+local count: 32, remote count: 32
+jump 热成狗
+local count: 142, remote count: 142
+jump 要哭了
+local count: 140, remote count: 142
+local count: 580, remote count: 580
+jump 无聊
+local count: 812, remote count: 812
+jump 什么
+local count: 69, remote count: 69
+jump 说的对
+local count: 417, remote count: 417
+jump 嫌弃
+local count: 22, remote count: 22
+jump 大骗子
+local count: 352, remote count: 352
+jump 捂脸
+local count: 90, remote count: 90
+jump 懵逼了
+local count: 55, remote count: 55
+jump 噗
+local count: 10, remote count: 10
+jump 有前途
+local count: 63, remote count: 63
+jump 人民币
+local count: 34, remote count: 34
+jump 笑出声
+local count: 84, remote count: 85
+local count: 30, remote count: 30
+jump 咋地
+local count: 33, remote count: 33
+jump 你好棒
+local count: 449, remote count: 449
+jump 起来嗨
+local count: 104, remote count: 104
+jump 好怕怕
+local count: 41, remote count: 41
+jump 你的良心不会痛吗
+local count: 55, remote count: 55
+jump 原来是这样
+local count: 44, remote count: 44
+jump 胖虎
+local count: 27, remote count: 27
+jump 笑一个
+local count: 25, remote count: 25
+jump 再来一个
+local count: 471, remote count: 480
+local count: 220, remote count: 227
+local count: 61, remote count: 61
+jump 别走
+local count: 277, remote count: 277
+jump 楼上
+local count: 323, remote count: 323
+jump 看着你
+local count: 27, remote count: 27
+jump 你在逗我
+local count: 94, remote count: 96
+local count: 44, remote count: 44
+jump 一本正经
+local count: 20, remote count: 20
+jump 你好污
+local count: 2605, remote count: 2607
+local count: 272, remote count: 272
+jump 无奈
+local count: 217, remote count: 218
+local count: 76, remote count: 76
+jump 这就很尴尬了
+local count: 931, remote count: 941
+local count: 221, remote count: 221
+jump 我不听我不听
+local count: 2605, remote count: 2614
+local count: 627, remote count: 644
+local count: 577, remote count: 577
+jump 无语
+local count: 95, remote count: 95
+jump 再说一遍
+local count: 220, remote count: 220
+jump 6
+local count: 79, remote count: 79
+jump 动次打次
+local count: 453, remote count: 455
+local count: 954, remote count: 954
+jump 委屈
+local count: 587, remote count: 597
+local count: 584, remote count: 586
+local count: 42, remote count: 42
+jump 感觉身体被掏空
+local count: 67, remote count: 67
+jump 举高高
+local count: 27, remote count: 27
+jump 啊啊啊
+local count: 2333, remote count: 2335
+local count: 30, remote count: 30
+jump 造作啊
+local count: 40, remote count: 40
+jump 发生了什么
+local count: 104, remote count: 105
+local count: 585, remote count: 585
+jump 哼
+local count: 101, remote count: 101
+jump 哭了
+local count: 48, remote count: 48
+jump 好腻害
+local count: 121, remote count: 121
+jump 略略略
+local count: 49, remote count: 49
+jump 快活啊
+local count: 266, remote count: 266
+jump 小仙女
+local count: 71, remote count: 74
+local count: 49, remote count: 49
+jump 小短腿
+local count: 142, remote count: 142
+jump 儿子
+local count: 452, remote count: 461
+local count: 227, remote count: 227
+jump 666
+local count: 89, remote count: 89
+jump 我想静静
+local count: 30, remote count: 30
+jump 扎心了老铁
+local count: 152, remote count: 152
+jump 乖
+local count: 53, remote count: 53
+jump 欢迎新人
+local count: 1018, remote count: 1023
+local count: 107, remote count: 107
+jump 我就笑笑
+local count: 87, remote count: 87
+jump 垃圾游戏
+local count: 72, remote count: 72
+jump 亲亲抱抱举高高
+local count: 23, remote count: 23
+jump 太污了
+local count: 36, remote count: 36
+jump 求安慰
+local count: 141, remote count: 141
+jump 宝宝心里苦
+local count: 28, remote count: 28
+jump 没抢到
+local count: 67, remote count: 67
+jump 你咋不上天
+local count: 37, remote count: 37
+jump 不去
+local count: 23, remote count: 23
+jump 好期待
+local count: 33, remote count: 33
+jump 退下吧
+local count: 107, remote count: 107
+jump 辣鸡
+local count: 32, remote count: 32
+jump 合作愉快
+local count: 110, remote count: 110
+jump biu
+local count: 293, remote count: 293
+jump 嘿嘿
+local count: 193, remote count: 194
+local count: 27, remote count: 27
+jump 我差点就信了
+local count: 308, remote count: 309
+local count: 25, remote count: 25
+jump biubiu
+local count: 1713, remote count: 1713
+jump 鹿晗
+local count: 190, remote count: 190
+jump 嘻嘻
+local count: 19, remote count: 19
+jump 一路走好
+local count: 42, remote count: 42
+jump 女汉子
+local count: 32, remote count: 32
+jump 心好痛
+local count: 562, remote count: 562
+jump 尴尬
+local count: 33, remote count: 33
+jump 黑眼圈
+local count: 83, remote count: 83
+jump 不忍直视
+local count: 16, remote count: 16
+jump 妥妥的
+local count: 62, remote count: 62
+jump 你说的都对
+local count: 272, remote count: 272
+jump 好无奈
+local count: 44, remote count: 44
+jump 我的小可爱
+local count: 31, remote count: 31
+jump 切克闹
+local count: 522, remote count: 525
+local count: 80, remote count: 82
+local count: 73, remote count: 73
+jump 快点
+local count: 33, remote count: 33
+jump 你给我等着
+local count: 228, remote count: 228
+jump 没有
+local count: 157, remote count: 157
+jump 暗中观察
+local count: 319, remote count: 319
+jump 真棒
+local count: 35, remote count: 35
+jump 不爱我
+local count: 37, remote count: 37
+jump 不嘛不嘛
+local count: 212, remote count: 212
+jump 流口水
+local count: 35, remote count: 35
+jump 你说得对
+local count: 152, remote count: 154
+local count: 26, remote count: 26
+jump 跟我走
+local count: 25, remote count: 25
+jump 胡说八道
+local count: 27, remote count: 27
+jump 好污
+local count: 51, remote count: 51
+jump 老司机带带我
+local count: 52, remote count: 52
+jump 掐指一算
+local count: 243, remote count: 253
+local count: 94, remote count: 94
+jump 皮皮虾
+local count: 23, remote count: 23
+jump 谢谢夸奖
+local count: 32, remote count: 32
+jump 有点意思
+local count: 22, remote count: 22
+jump 瑟瑟发抖
+local count: 88, remote count: 88
+jump 懒得理你
+local count: 70, remote count: 70
+jump 打屁股
+local count: 277, remote count: 278
+local count: 174, remote count: 179
+local count: 65, remote count: 65
+jump 盗我图
+local count: 263, remote count: 263
+jump 来打我啊
+local count: 178, remote count: 178
+jump ?
+local count: 1671, remote count: 1672
+local count: 31, remote count: 31
+jump 无敌
+local count: 119, remote count: 119
+jump 歪
+local count: 501, remote count: 501
+jump 滚
+local count: 127, remote count: 127
+jump 看好你
+local count: 201, remote count: 201
+jump 老公
+local count: 145, remote count: 146
+local count: 119, remote count: 119
+jump 切
+local count: 75, remote count: 76
+local count: 5146, remote count: 5148
+local count: 70, remote count: 70
+jump 怕了吧
+local count: 42, remote count: 42
+jump 我最可爱
+local count: 33, remote count: 33
+jump 不活了
+local count: 157, remote count: 157
+jump 不
+local count: 600, remote count: 605
+local count: 584, remote count: 585
+local count: 673, remote count: 716
+local count: 67, remote count: 67
+jump 猪小屁
+local count: 49, remote count: 49
+jump 王牌保镖
+local count: 471, remote count: 472
+local count: 66, remote count: 66
+jump emmmm
+local count: 85, remote count: 85
+jump 棒棒的
+local count: 239, remote count: 239
+jump 我错了嘛
+local count: 93, remote count: 93
+jump 阿弥陀佛
+local count: 35, remote count: 35
+jump 你说得对
+local count: 347, remote count: 347
+jump 打你
+local count: 4105, remote count: 4109
+local count: 248, remote count: 248
+jump 人呢
+local count: 28, remote count: 29
+local count: 48, remote count: 48
+jump 好腻害
+local count: 274, remote count: 274
+jump 我错了
+local count: 178, remote count: 178
+jump ?
+local count: 66, remote count: 66
+jump 听不懂
+local count: 79, remote count: 79
+jump 大佬
+local count: 36, remote count: 36
+jump 求安慰
+local count: 812, remote count: 812
+jump 什么
+local count: 33, remote count: 33
+jump 亲一口
+local count: 272, remote count: 272
+jump 好无奈
+local count: 673, remote count: 716
+local count: 49, remote count: 49
+jump 快活啊
+local count: 34, remote count: 34
+jump 出来嗨
+local count: 141, remote count: 141
+jump 宝宝心里苦
+local count: 36, remote count: 36
+jump 看不见
+local count: 227, remote count: 227
+jump 666
+local count: 27, remote count: 27
+jump 啊啊啊
+local count: 174, remote count: 179
+local count: 27, remote count: 27
+jump 笑一个
+local count: 49, remote count: 49
+jump 小短腿
+local count: 585, remote count: 585
+jump 哼
+local count: 562, remote count: 562
+jump 尴尬
+local count: 104, remote count: 105
+local count: 53, remote count: 53
+jump 欢迎新人
+local count: 2544, remote count: 2544
+jump 哭
+local count: 63, remote count: 63
+jump 人民币
+local count: 218, remote count: 218
+jump 我喜欢你
+local count: 464, remote count: 464
+jump 猪
+local count: 42, remote count: 42
+jump 女汉子
+local count: 63, remote count: 63
+jump 咬我啊
+local count: 19, remote count: 19
+jump 一路走好
+local count: 993, remote count: 998
+local count: 83, remote count: 84
+local count: 201, remote count: 201
+jump 老公
+local count: 971, remote count: 981
+local count: 139, remote count: 139
+jump 怪我喽
+local count: 577, remote count: 577
+jump 无语
+local count: 22, remote count: 22
+jump 那你很棒棒
+local count: 101, remote count: 101
+jump 哭了
+local count: 21, remote count: 21
+jump 机智如我
+local count: 104, remote count: 104
+jump 好怕怕
+local count: 417, remote count: 417
+jump 嫌弃
+local count: 344, remote count: 345
+local count: 119, remote count: 119
+jump 切
+local count: 41, remote count: 41
+jump 你的良心不会痛吗
+local count: 25, remote count: 25
+jump 再来一个
+local count: 70, remote count: 70
+jump 打屁屁
+local count: 16, remote count: 16
+jump 妥妥的
+local count: 77, remote count: 77
+jump 我也很绝望啊
+local count: 76, remote count: 76
+jump 这就很尴尬了
+local count: 28, remote count: 28
+jump 没人理我
+local count: 32, remote count: 32
+jump 心好痛
+local count: 71, remote count: 71
+jump 不想活了
+local count: 409, remote count: 410
+local count: 30, remote count: 30
+jump 咋地
+local count: 145, remote count: 146
+local count: 243, remote count: 254
+local count: 352, remote count: 352
+jump 捂脸
+local count: 1613, remote count: 1023
+jump 爱你
+local count: 142, remote count: 142
+jump 要哭了
+local count: 127, remote count: 127
+jump 看好你
+local count: 264, remote count: 264
+jump 打我啊
+local count: 38, remote count: 38
+jump 给你吃
+local count: 28, remote count: 28
+jump 不要生气
+local count: 57, remote count: 57
+jump 无话可说
+local count: 931, remote count: 941
+local count: 164, remote count: 164
+jump 打死你
+local count: 42, remote count: 42
+jump 感觉身体被掏空
+local count: 105, remote count: 105
+jump 抱大腿
+local count: 37, remote count: 37
+jump 我最帅
+local count: 23, remote count: 23
+jump 太污了
+local count: 100, remote count: 100
+jump 心碎了
+local count: 52, remote count: 52
+jump 掐指一算
+local count: 35, remote count: 35
+jump 不爱我
+local count: 20, remote count: 20
+jump 你好污
+local count: 101, remote count: 101
+jump 欺负人
+local count: 32, remote count: 32
+jump 热成狗
+local count: 88, remote count: 88
+jump 懒得理你
+local count: 44, remote count: 45
+local count: 4664, remote count: 4665
+local count: 33, remote count: 33
+jump 你好棒
+local count: 34, remote count: 34
+jump 笑出声
+local count: 70, remote count: 70
+jump 佩服佩服
+local count: 54, remote count: 54
+jump 我
+local count: 584, remote count: 585
+local count: 27, remote count: 27
+jump 我差点就信了
+local count: 33, remote count: 33
+jump 退下吧
+local count: 21, remote count: 21
+jump 不错哦
+local count: 16, remote count: 16
+jump 谦虚
+local count: 44, remote count: 44
+jump 我的小可爱
+local count: 28, remote count: 28
+jump 好基友
+local count: 40, remote count: 40
+jump 发生了什么
+local count: 37, remote count: 37
+jump 干得漂亮
+local count: 392, remote count: 392
+jump 棒棒棒
+local count: 38, remote count: 38
+jump 泥奏凯
+local count: 307, remote count: 307
+jump 我打你
+local count: 580, remote count: 580
+jump 无聊
+local count: 2605, remote count: 2617
+local count: 90, remote count: 90
+jump 懵逼了
+local count: 5148, remote count: 5154
+local count: 35, remote count: 35
+jump 你再说一遍
+local count: 49, remote count: 49
+jump 杀马特
+local count: 24, remote count: 24
+jump 哎呦我去
+local count: 51, remote count: 51
+jump 老司机带带我
+local count: 26, remote count: 26
+jump 带你飞
+local count: 142, remote count: 143
+local count: 43, remote count: 43
+jump 我不服
+local count: 55, remote count: 57
+local count: 33, remote count: 33
+jump 你给我等着
+local count: 32, remote count: 32
+jump 有点意思
+local count: 185, remote count: 185
+jump 人呢人呢
+local count: 220, remote count: 220
+jump 6
+local count: 323, remote count: 323
+jump 看着你
+local count: 67, remote count: 67
+jump 你咋不上天
+local count: 67, remote count: 67
+jump 举高高
+local count: 75, remote count: 76
+local count: 23, remote count: 23
+jump 谢谢夸奖
+local count: 20, remote count: 20
+jump biubiubiu
+local count: 21, remote count: 21
+jump 多喝热水
+local count: 94, remote count: 95
+local count: 190, remote count: 190
+jump 嘻嘻
+local count: 2333, remote count: 2335
+local count: 369, remote count: 370
+local count: 182, remote count: 182
+jump stop
+local count: 71, remote count: 74
+local count: 452, remote count: 461
+local count: 221, remote count: 221
+jump 我不听我不听
+local count: 449, remote count: 449
+jump 起来嗨
+local count: 107, remote count: 107
+jump 我就笑笑
+local count: 25, remote count: 25
+jump biubiu
+local count: 293, remote count: 293
+jump 嘿嘿
+local count: 33, remote count: 33
+jump 不活了
+local count: 158, remote count: 158
+jump 好冷啊
+local count: 89, remote count: 90
+local count: 319, remote count: 320
+local count: 587, remote count: 597
+local count: 266, remote count: 266
+jump 小仙女
+local count: 31, remote count: 31
+jump 无敌
+local count: 370, remote count: 372
+local count: 236, remote count: 238
+local count: 61, remote count: 61
+jump 别走
+local count: 110, remote count: 110
+jump biu
+local count: 22, remote count: 22
+jump 瑟瑟发抖
+local count: 584, remote count: 586
+local count: 277, remote count: 278
+local count: 72, remote count: 72
+jump 亲亲抱抱举高高
+local count: 315, remote count: 315
+jump 群主
+local count: 65, remote count: 65
+jump 盗我图
+local count: 40, remote count: 40
+jump 你咬我
+local count: 78, remote count: 78
+jump 我也很绝望
+local count: 29, remote count: 29
+jump 服不服
+local count: 95, remote count: 95
+jump 再说一遍
+local count: 154, remote count: 154
+jump 吃瓜群众
+local count: 501, remote count: 501
+jump 滚
+local count: 671, remote count: 714
+local count: 27, remote count: 27
+jump 浪里个浪
+local count: 184, remote count: 184
+jump 原谅帽
+local count: 42, remote count: 42
+jump 我最可爱
+local count: 103, remote count: 103
+jump 来打我
+local count: 75, remote count: 75
+jump 小拳拳
+local count: 33, remote count: 33
+jump 黑眼圈
+local count: 263, remote count: 263
+jump 来打我啊
+local count: 81, remote count: 81
+jump 交个朋友吧
+local count: 28, remote count: 28
+jump 天啦噜
+local count: 55, remote count: 55
+jump 我竟无言以对
+local count: 453, remote count: 455
+local count: 132, remote count: 132
+jump 生无可恋
+local count: 27, remote count: 27
+jump 你在逗我
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 34, remote count: 34
+jump 拖出去
+local count: 20, remote count: 20
+jump 要你管
+local count: 219, remote count: 220
+local count: 79, remote count: 79
+jump 动次打次
+local count: 70, remote count: 70
+jump 打屁股
+local count: 627, remote count: 644
+local count: 117, remote count: 117
+jump 互相伤害
+local count: 27, remote count: 27
+jump 好污
+local count: 30, remote count: 30
+jump 好害羞
+local count: 87, remote count: 87
+jump 垃圾游戏
+local count: 140, remote count: 142
+local count: 70, remote count: 70
+jump 怕了吧
+local count: 86, remote count: 86
+jump 不听不听
+local count: 1671, remote count: 1672
+local count: 44, remote count: 44
+jump 一本正经
+local count: 187, remote count: 188
+local count: 32, remote count: 32
+jump 低调低调
+local count: 193, remote count: 194
+local count: 740, remote count: 740
+jump 亲亲我
+local count: 73, remote count: 73
+jump 快点
+local count: 228, remote count: 228
+jump 没有
+local count: 272, remote count: 272
+jump 无奈
+local count: 55, remote count: 55
+jump 噗
+local count: 559, remote count: 570
+local count: 2605, remote count: 2607
+local count: 107, remote count: 107
+jump 辣鸡
+local count: 37, remote count: 37
+jump 不嘛不嘛
+local count: 23, remote count: 23
+jump 肚子饿
+local count: 94, remote count: 96
+local count: 157, remote count: 158
+local count: 157, remote count: 157
+jump 不
+local count: 308, remote count: 309
+local count: 471, remote count: 480
+local count: 212, remote count: 212
+jump 流口水
+local count: 37, remote count: 37
+jump 不去
+local count: 180, remote count: 180
+jump 胖子
+local count: 62, remote count: 62
+jump 你说的都对
+local count: 114, remote count: 114
+jump 流鼻血
+local count: 31, remote count: 31
+jump 切克闹
+local count: 954, remote count: 954
+jump 委屈
+local count: 277, remote count: 278
+local count: 80, remote count: 82
+local count: 22, remote count: 22
+jump 大骗子
+local count: 600, remote count: 605
+local count: 158, remote count: 158
+jump 吓死宝宝了
+local count: 23, remote count: 23
+jump 哦哟哟
+local count: 31, remote count: 31
+jump 你在逗我吗
+local count: 31, remote count: 31
+jump 渍渍渍
+local count: 26, remote count: 26
+jump 跟我走
+local count: 10, remote count: 10
+jump 有前途
+local count: 64, remote count: 64
+jump 哦买嘎
+local count: 152, remote count: 152
+jump 乖
+local count: 525, remote count: 525
+jump 比心
+local count: 32, remote count: 32
+jump 合作愉快
+local count: 1491, remote count: 1491
+jump 亲亲
+local count: 216, remote count: 216
+jump 学习
+local count: 27, remote count: 27
+jump 嫁给我
+local count: 184, remote count: 184
+jump 绿帽子
+local count: 25, remote count: 25
+jump 胡说八道
+local count: 52, remote count: 52
+jump 静静地
+local count: 41, remote count: 41
+jump 不高兴
+local count: 1713, remote count: 1715
+local count: 69, remote count: 69
+jump 说的对
+local count: 30, remote count: 30
+jump 扎心了老铁
+local count: 220, remote count: 227
+local count: 30, remote count: 30
+jump 造作啊
+local count: 119, remote count: 119
+jump 歪?
+local count: 431, remote count: 431
+jump 吐舌头
+local count: 1358, remote count: 1359
+local count: 159, remote count: 160
+local count: 544, remote count: 544
+jump 好害怕
+local count: 83, remote count: 83
+jump 不忍直视
+local count: 60, remote count: 60
+jump 要亲亲
+local count: 119, remote count: 119
+jump 歪
+local count: 101, remote count: 101
+jump 惊呆了
+local count: 700, remote count: 700
+jump 加油哦
+local count: 23, remote count: 23
+jump 好期待
+local count: 65, remote count: 65
+jump 委屈巴巴
+local count: 28, remote count: 28
+jump 你最棒
+local count: 457, remote count: 458
+local count: 38, remote count: 42
+local count: 85, remote count: 85
+jump 傻子
+local count: 1626, remote count: 1626
+jump 红包
+local count: 20, remote count: 20
+jump 不喜欢你了
+local count: 121, remote count: 121
+jump 略略略
+local count: 0, remote count: 30
+local count: 0, remote count: 17
+local count: 0, remote count: 507
+local count: 0, remote count: 133
+local count: 0, remote count: 197
+local count: 0, remote count: 63
+local count: 0, remote count: 95
+local count: 0, remote count: 527
+local count: 0, remote count: 599
+local count: 0, remote count: 586
+local count: 0, remote count: 20
+local count: 0, remote count: 186
+local count: 0, remote count: 16
+local count: 0, remote count: 277
+local count: 0, remote count: 33
+local count: 0, remote count: 108
+local count: 0, remote count: 32
+local count: 0, remote count: 941
+local count: 0, remote count: 412
+local count: 0, remote count: 321
+local count: 0, remote count: 32
+local count: 0, remote count: 67
+local count: 0, remote count: 31
+local count: 0, remote count: 25
+local count: 0, remote count: 163
+local count: 0, remote count: 351
+local count: 0, remote count: 220
+local count: 0, remote count: 185
+local count: 0, remote count: 35
+local count: 0, remote count: 78
+local count: 0, remote count: 1626
+local count: 0, remote count: 1718
+local count: 0, remote count: 293
+local count: 0, remote count: 120
+local count: 0, remote count: 51
+local count: 0, remote count: 562
+local count: 0, remote count: 23
+local count: 0, remote count: 275
+local count: 0, remote count: 23
+local count: 0, remote count: 33
+local count: 0, remote count: 100
+local count: 0, remote count: 70
+local count: 0, remote count: 957
+local count: 0, remote count: 455
+local count: 0, remote count: 5240
+local count: 0, remote count: 79
+local count: 0, remote count: 83
+local count: 0, remote count: 82
+local count: 0, remote count: 27
+local count: 0, remote count: 100
+local count: 0, remote count: 90
+local count: 0, remote count: 700
+local count: 0, remote count: 16
+local count: 0, remote count: 63
+local count: 0, remote count: 30
+local count: 0, remote count: 717
+local count: 0, remote count: 22
+local count: 0, remote count: 27
+local count: 0, remote count: 139
+local count: 0, remote count: 264
+local count: 0, remote count: 307
+local count: 0, remote count: 20
+local count: 0, remote count: 27
+local count: 0, remote count: 71
+local count: 0, remote count: 79
+local count: 0, remote count: 273
+local count: 0, remote count: 49
+local count: 0, remote count: 715
+local count: 0, remote count: 2649
+local count: 0, remote count: 2613
+local count: 0, remote count: 2337
+local count: 0, remote count: 49
+local count: 0, remote count: 28
+local count: 0, remote count: 45
+local count: 0, remote count: 142
+local count: 0, remote count: 34
+local count: 0, remote count: 177
+local count: 0, remote count: 23
+local count: 0, remote count: 220
+local count: 0, remote count: 160
+local count: 0, remote count: 392
+local count: 0, remote count: 1000
+local count: 0, remote count: 34
+local count: 0, remote count: 224
+local count: 0, remote count: 38
+local count: 0, remote count: 481
+local count: 0, remote count: 33
+local count: 0, remote count: 64
+local count: 0, remote count: 69
+local count: 0, remote count: 4138
+local count: 0, remote count: 158
+local count: 0, remote count: 190
+local count: 0, remote count: 31
+local count: 0, remote count: 142
+local count: 0, remote count: 117
+local count: 0, remote count: 72
+local count: 0, remote count: 981
+local count: 0, remote count: 462
+local count: 0, remote count: 101
+local count: 0, remote count: 828
+local count: 0, remote count: 464
+local count: 0, remote count: 65
+local count: 0, remote count: 48
+local count: 0, remote count: 152
+local count: 0, remote count: 91
+local count: 0, remote count: 645
+local count: 0, remote count: 32
+local count: 0, remote count: 21
+local count: 0, remote count: 186
+local count: 0, remote count: 61
+local count: 0, remote count: 41
+local count: 0, remote count: 141
+local count: 0, remote count: 261
+local count: 0, remote count: 35
+local count: 0, remote count: 25
+local count: 0, remote count: 20
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 0, remote count: 277
+local count: 0, remote count: 29
+local count: 0, remote count: 20
+local count: 0, remote count: 34
+local count: 0, remote count: 101
+local count: 0, remote count: 372
+local count: 0, remote count: 740
+local count: 0, remote count: 32
+local count: 0, remote count: 30
+local count: 0, remote count: 25
+local count: 0, remote count: 431
+local count: 0, remote count: 344
+local count: 0, remote count: 456
+local count: 0, remote count: 33
+local count: 0, remote count: 613
+local count: 0, remote count: 133
+local count: 0, remote count: 418
+local count: 0, remote count: 273
+local count: 0, remote count: 26
+local count: 0, remote count: 75
+local count: 0, remote count: 93
+local count: 0, remote count: 32
+local count: 0, remote count: 52
+local count: 0, remote count: 33
+local count: 0, remote count: 27
+local count: 0, remote count: 545
+local count: 0, remote count: 47
+local count: 0, remote count: 63
+local count: 0, remote count: 43
+local count: 0, remote count: 23
+local count: 0, remote count: 1025
+local count: 0, remote count: 309
+local count: 0, remote count: 586
+local count: 0, remote count: 586
+local count: 0, remote count: 31
+local count: 0, remote count: 55
+local count: 0, remote count: 86
+local count: 0, remote count: 241
+local count: 0, remote count: 227
+local count: 0, remote count: 107
+local count: 0, remote count: 189
+local count: 0, remote count: 219
+local count: 0, remote count: 219
+local count: 0, remote count: 24
+local count: 0, remote count: 182
+local count: 0, remote count: 33
+local count: 0, remote count: 22
+local count: 0, remote count: 42
+local count: 0, remote count: 19
+local count: 0, remote count: 67
+local count: 0, remote count: 28
+local count: 0, remote count: 33
+local count: 0, remote count: 158
+local count: 0, remote count: 23
+local count: 0, remote count: 81
+local count: 0, remote count: 21
+local count: 0, remote count: 37
+local count: 0, remote count: 579
+local count: 0, remote count: 4666
+local count: 0, remote count: 55
+local count: 0, remote count: 85
+local count: 0, remote count: 35
+local count: 0, remote count: 1673
+local count: 0, remote count: 44
+local count: 0, remote count: 74
+local count: 0, remote count: 42
+local count: 0, remote count: 146
+local count: 0, remote count: 105
+local count: 0, remote count: 96
+local count: 0, remote count: 242
+local count: 0, remote count: 89
+local count: 0, remote count: 227
+local count: 0, remote count: 24
+local count: 0, remote count: 28
+local count: 0, remote count: 180
+local count: 0, remote count: 41
+local count: 0, remote count: 74
+local count: 0, remote count: 578
+local count: 0, remote count: 110
+local count: 0, remote count: 76
+local count: 0, remote count: 249
+local count: 0, remote count: 26
+local count: 0, remote count: 119
+local count: 0, remote count: 95
+local count: 0, remote count: 57
+local count: 0, remote count: 1492
+local count: 0, remote count: 146
+local count: 0, remote count: 50
+local count: 0, remote count: 37
+local count: 0, remote count: 127
+local count: 0, remote count: 22
+local count: 0, remote count: 40
+local count: 0, remote count: 30
+local count: 0, remote count: 103
+local count: 0, remote count: 37
+local count: 0, remote count: 84
+local count: 0, remote count: 37
+local count: 0, remote count: 40
+local count: 0, remote count: 281
+local count: 0, remote count: 70
+local count: 0, remote count: 105
+local count: 0, remote count: 88
+local count: 0, remote count: 393
+local count: 0, remote count: 70
+local count: 0, remote count: 77
+local count: 0, remote count: 103
+local count: 0, remote count: 28
+local count: 0, remote count: 52
+local count: 0, remote count: 69
+local count: 0, remote count: 154
+local count: 0, remote count: 449
+local count: 0, remote count: 120
+local count: 0, remote count: 2566
+local count: 0, remote count: 50
+local count: 0, remote count: 36
+local count: 0, remote count: 263
+local count: 0, remote count: 37
+local count: 0, remote count: 10
+local count: 0, remote count: 501
+local count: 0, remote count: 23
+local count: 0, remote count: 30
+local count: 0, remote count: 315
+local count: 0, remote count: 81
+local count: 0, remote count: 157
+local count: 0, remote count: 347
+local count: 0, remote count: 215
+local count: 0, remote count: 1360
+local count: 0, remote count: 27
+local count: 0, remote count: 220
+local count: 0, remote count: 42
+local count: 0, remote count: 38
+local count: 0, remote count: 76
+local count: 0, remote count: 120
+local count: 0, remote count: 212
+local count: 0, remote count: 323
+local count: 0, remote count: 67
+local count: 0, remote count: 85
+local count: 0, remote count: 59
+local count: 0, remote count: 53
+local count: 0, remote count: 29
+local count: 0, remote count: 159
+local count: 0, remote count: 42
+local count: 0, remote count: 28
+local count: 0, remote count: 61
+local count: 0, remote count: 188
+local count: 0, remote count: 36
+local count: 0, remote count: 577
+local count: 0, remote count: 114
+local count: 0, remote count: 30
+local count: 0, remote count: 17
+local count: 0, remote count: 4148
+local count: 0, remote count: 340
+local count: 0, remote count: 219
+local count: 0, remote count: 33
+local count: 0, remote count: 501
+local count: 0, remote count: 1718
+local count: 0, remote count: 586
+local count: 0, remote count: 27
+local count: 0, remote count: 464
+local count: 0, remote count: 37
+local count: 0, remote count: 63
+local count: 0, remote count: 72
+local count: 0, remote count: 42
+local count: 0, remote count: 38
+local count: 0, remote count: 28
+local count: 0, remote count: 44
+local count: 0, remote count: 163
+local count: 0, remote count: 22
+local count: 0, remote count: 412
+local count: 0, remote count: 32
+local count: 0, remote count: 49
+local count: 0, remote count: 69
+local count: 0, remote count: 1673
+local count: 0, remote count: 1492
+local count: 0, remote count: 127
+local count: 0, remote count: 32
+local count: 0, remote count: 60
+local count: 0, remote count: 76
+local count: 0, remote count: 114
+local count: 0, remote count: 220
+local count: 0, remote count: 120
+local count: 0, remote count: 273
+local count: 0, remote count: 242
+local count: 0, remote count: 275
+local count: 0, remote count: 70
+local count: 0, remote count: 4666
+local count: 0, remote count: 29
+local count: 0, remote count: 31
+local count: 0, remote count: 32
+local count: 0, remote count: 63
+local count: 0, remote count: 307
+local count: 0, remote count: 86
+local count: 0, remote count: 186
+local count: 0, remote count: 117
+local count: 0, remote count: 34
+local count: 0, remote count: 33
+local count: 0, remote count: 55
+local count: 0, remote count: 67
+local count: 0, remote count: 37
+local count: 0, remote count: 263
+local count: 0, remote count: 981
+local count: 0, remote count: 190
+local count: 0, remote count: 224
+local count: 0, remote count: 105
+local count: 0, remote count: 103
+local count: 0, remote count: 47
+local count: 0, remote count: 29
+local count: 0, remote count: 1360
+local count: 0, remote count: 25
+local count: 0, remote count: 185
+local count: 0, remote count: 48
+local count: 0, remote count: 27
+local count: 0, remote count: 95
+local count: 0, remote count: 197
+local count: 0, remote count: 215
+local count: 0, remote count: 351
+local count: 0, remote count: 93
+local count: 0, remote count: 45
+local count: 0, remote count: 91
+local count: 0, remote count: 81
+local count: 0, remote count: 645
+local count: 0, remote count: 100
+local count: 0, remote count: 31
+local count: 0, remote count: 79
+local count: 0, remote count: 103
+local count: 0, remote count: 219
+local count: 0, remote count: 36
+local count: 0, remote count: 23
+local count: 0, remote count: 53
+local count: 0, remote count: 52
+local count: 0, remote count: 119
+local count: 0, remote count: 527
+local count: 0, remote count: 50
+local count: 0, remote count: 30
+local count: 0, remote count: 33
+local count: 0, remote count: 71
+local count: 0, remote count: 101
+local count: 0, remote count: 120
+local count: 0, remote count: 41
+local count: 0, remote count: 141
+local count: 0, remote count: 463
+local count: 0, remote count: 30
+local count: 0, remote count: 101
+local count: 0, remote count: 227
+local count: 0, remote count: 1626
+local count: 0, remote count: 160
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 0, remote count: 941
+local count: 0, remote count: 20
+local count: 0, remote count: 28
+local count: 0, remote count: 347
+local count: 0, remote count: 57
+local count: 0, remote count: 33
+local count: 0, remote count: 587
+local count: 0, remote count: 4154
+local count: 0, remote count: 40
+local count: 0, remote count: 0
+jump 泥奏凯
+local count: 0, remote count: 546
+local count: 0, remote count: 482
+local count: 0, remote count: 34
+local count: 0, remote count: 107
+local count: 0, remote count: 281
+local count: 0, remote count: 32
+local count: 0, remote count: 828
+local count: 0, remote count: 5244
+local count: 0, remote count: 78
+local count: 0, remote count: 715
+local count: 0, remote count: 33
+local count: 0, remote count: 182
+local count: 0, remote count: 22
+local count: 0, remote count: 28
+local count: 0, remote count: 33
+local count: 0, remote count: 36
+local count: 0, remote count: 580
+local count: 0, remote count: 24
+local count: 0, remote count: 154
+local count: 0, remote count: 35
+local count: 0, remote count: 32
+local count: 0, remote count: 264
+local count: 0, remote count: 16
+local count: 0, remote count: 152
+local count: 0, remote count: 21
+local count: 0, remote count: 2613
+local count: 0, remote count: 449
+local count: 0, remote count: 37
+local count: 0, remote count: 613
+local count: 0, remote count: 105
+local count: 0, remote count: 220
+local count: 0, remote count: 61
+local count: 0, remote count: 148
+local count: 0, remote count: 82
+local count: 0, remote count: 2570
+local count: 0, remote count: 562
+local count: 0, remote count: 89
+local count: 0, remote count: 251
+local count: 0, remote count: 110
+local count: 0, remote count: 189
+local count: 0, remote count: 64
+local count: 0, remote count: 277
+local count: 0, remote count: 293
+local count: 0, remote count: 85
+local count: 0, remote count: 41
+local count: 0, remote count: 74
+local count: 0, remote count: 84
+local count: 0, remote count: 28
+local count: 0, remote count: 31
+local count: 0, remote count: 393
+local count: 0, remote count: 700
+local count: 0, remote count: 158
+local count: 0, remote count: 24
+local count: 0, remote count: 323
+local count: 0, remote count: 431
+local count: 0, remote count: 227
+local count: 0, remote count: 264
+local count: 0, remote count: 157
+local count: 0, remote count: 599
+local count: 0, remote count: 180
+local count: 0, remote count: 278
+local count: 0, remote count: 25
+local count: 0, remote count: 158
+local count: 0, remote count: 142
+local count: 0, remote count: 586
+local count: 0, remote count: 51
+local count: 0, remote count: 77
+local count: 0, remote count: 76
+local count: 0, remote count: 418
+local count: 0, remote count: 2650
+local count: 0, remote count: 43
+local count: 0, remote count: 21
+local count: 0, remote count: 49
+local count: 0, remote count: 23
+local count: 0, remote count: 63
+local count: 0, remote count: 309
+local count: 0, remote count: 75
+local count: 0, remote count: 23
+local count: 0, remote count: 1025
+local count: 0, remote count: 79
+local count: 0, remote count: 133
+local count: 0, remote count: 120
+local count: 0, remote count: 10
+local count: 0, remote count: 456
+local count: 0, remote count: 37
+local count: 0, remote count: 19
+local count: 0, remote count: 20
+local count: 0, remote count: 67
+local count: 0, remote count: 108
+local count: 0, remote count: 579
+local count: 0, remote count: 27
+local count: 0, remote count: 26
+local count: 0, remote count: 69
+local count: 0, remote count: 65
+local count: 0, remote count: 20
+local count: 0, remote count: 95
+local count: 0, remote count: 188
+local count: 0, remote count: 81
+local count: 0, remote count: 139
+local count: 0, remote count: 27
+local count: 0, remote count: 42
+local count: 0, remote count: 37
+local count: 0, remote count: 40
+local count: 0, remote count: 70
+local count: 0, remote count: 187
+local count: 0, remote count: 242
+local count: 0, remote count: 1000
+local count: 0, remote count: 74
+local count: 0, remote count: 372
+local count: 0, remote count: 22
+local count: 0, remote count: 578
+local count: 0, remote count: 67
+local count: 0, remote count: 142
+local count: 0, remote count: 100
+local count: 0, remote count: 90
+local count: 0, remote count: 717
+local count: 0, remote count: 23
+local count: 0, remote count: 220
+local count: 0, remote count: 96
+local count: 0, remote count: 23
+local count: 0, remote count: 16
+local count: 0, remote count: 394
+local count: 0, remote count: 28
+local count: 0, remote count: 50
+local count: 0, remote count: 2338
+local count: 0, remote count: 740
+local count: 0, remote count: 35
+local count: 0, remote count: 25
+local count: 0, remote count: 273
+local count: 0, remote count: 33
+local count: 0, remote count: 35
+local count: 0, remote count: 212
+local count: 0, remote count: 30
+local count: 0, remote count: 42
+local count: 0, remote count: 344
+local count: 0, remote count: 55
+local count: 0, remote count: 42
+local count: 0, remote count: 321
+local count: 0, remote count: 85
+local count: 0, remote count: 159
+local count: 0, remote count: 26
+local count: 0, remote count: 27
+local count: 0, remote count: 30
+local count: 0, remote count: 315
+local count: 0, remote count: 177
+local count: 0, remote count: 61
+local count: 0, remote count: 455
+local count: 0, remote count: 146
+local count: 0, remote count: 52
+local count: 0, remote count: 34
+local count: 0, remote count: 20
+local count: 0, remote count: 70
+local count: 0, remote count: 23
+local count: 0, remote count: 957
+local count: 0, remote count: 83
+local count: 0, remote count: 88
+local count: 0, remote count: 30
+local count: 0, remote count: 17
+local count: 0, remote count: 507
+local count: 0, remote count: 1523
+local count: 0, remote count: 613
+local count: 0, remote count: 88
+local count: 0, remote count: 20
+local count: 0, remote count: 37
+local count: 0, remote count: 93
+local count: 0, remote count: 44
+local count: 0, remote count: 25
+local count: 0, remote count: 133
+local count: 0, remote count: 158
+local count: 0, remote count: 2575
+local count: 0, remote count: 717
+local count: 0, remote count: 82
+local count: 0, remote count: 2614
+local count: 0, remote count: 957
+local count: 0, remote count: 588
+local count: 0, remote count: 227
+local count: 0, remote count: 163
+local count: 0, remote count: 70
+local count: 0, remote count: 28
+local count: 0, remote count: 75
+local count: 0, remote count: 152
+local count: 0, remote count: 242
+local count: 0, remote count: 34
+local count: 0, remote count: 106
+local count: 0, remote count: 71
+local count: 0, remote count: 63
+local count: 0, remote count: 281
+local count: 0, remote count: 323
+local count: 0, remote count: 1492
+local count: 0, remote count: 224
+local count: 0, remote count: 72
+local count: 0, remote count: 85
+local count: 0, remote count: 43
+local count: 0, remote count: 35
+local count: 0, remote count: 645
+local count: 0, remote count: 49
+local count: 0, remote count: 30
+local count: 0, remote count: 61
+local count: 0, remote count: 580
+local count: 0, remote count: 42
+local count: 0, remote count: 89
+local count: 0, remote count: 69
+local count: 0, remote count: 418
+local count: 0, remote count: 33
+local count: 0, remote count: 114
+local count: 0, remote count: 456
+local count: 0, remote count: 35
+local count: 0, remote count: 70
+local count: 0, remote count: 315
+local count: 0, remote count: 28
+local count: 0, remote count: 34
+local count: 0, remote count: 31
+local count: 0, remote count: 275
+local count: 0, remote count: 64
+local count: 0, remote count: 101
+local count: 0, remote count: 180
+local count: 0, remote count: 119
+local count: 0, remote count: 33
+local count: 0, remote count: 22
+local count: 0, remote count: 941
+local count: 0, remote count: 263
+local count: 0, remote count: 28
+local count: 0, remote count: 2339
+local count: 0, remote count: 48
+local count: 0, remote count: 120
+local count: 0, remote count: 29
+local count: 0, remote count: 26
+local count: 0, remote count: 33
+local count: 0, remote count: 1025
+local count: 0, remote count: 464
+local count: 0, remote count: 51
+local count: 0, remote count: 83
+local count: 0, remote count: 215
+local count: 0, remote count: 85
+local count: 0, remote count: 157
+local count: 0, remote count: 37
+local count: 0, remote count: 587
+local count: 0, remote count: 33
+local count: 0, remote count: 40
+local count: 0, remote count: 578
+local count: 0, remote count: 69
+local count: 0, remote count: 20
+local count: 0, remote count: 220
+local count: 0, remote count: 228
+local count: 0, remote count: 81
+local count: 0, remote count: 177
+local count: 0, remote count: 715
+local count: 0, remote count: 309
+local count: 0, remote count: 307
+local count: 0, remote count: 198
+local count: 0, remote count: 4177
+local count: 0, remote count: 78
+local count: 0, remote count: 65
+local count: 0, remote count: 38
+local count: 0, remote count: 347
+local count: 0, remote count: 35
+local count: 0, remote count: 96
+local count: 0, remote count: 455
+local count: 0, remote count: 47
+local count: 0, remote count: 41
+local count: 0, remote count: 79
+local count: 0, remote count: 464
+local count: 0, remote count: 55
+local count: 0, remote count: 189
+local count: 0, remote count: 34
+local count: 0, remote count: 117
+local count: 0, remote count: 103
+local count: 0, remote count: 20
+local count: 0, remote count: 10
+local count: 0, remote count: 74
+local count: 0, remote count: 20
+local count: 0, remote count: 23
+local count: 0, remote count: 103
+local count: 0, remote count: 1673
+local count: 0, remote count: 31
+local count: 0, remote count: 16
+local count: 0, remote count: 30
+local count: 0, remote count: 36
+local count: 0, remote count: 264
+local count: 0, remote count: 33
+local count: 0, remote count: 16
+local count: 0, remote count: 139
+local count: 0, remote count: 32
+local count: 0, remote count: 1626
+local count: 0, remote count: 36
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 0, remote count: 981
+local count: 0, remote count: 95
+local count: 0, remote count: 21
+local count: 0, remote count: 76
+local count: 0, remote count: 190
+local count: 0, remote count: 155
+local count: 0, remote count: 1718
+local count: 0, remote count: 37
+local count: 0, remote count: 220
+local count: 0, remote count: 351
+local count: 0, remote count: 21
+local count: 0, remote count: 120
+local count: 0, remote count: 27
+local count: 0, remote count: 23
+local count: 0, remote count: 449
+local count: 0, remote count: 32
+local count: 0, remote count: 188
+local count: 0, remote count: 293
+local count: 0, remote count: 42
+local count: 0, remote count: 52
+local count: 0, remote count: 27
+local count: 0, remote count: 70
+local count: 0, remote count: 24
+local count: 0, remote count: 105
+local count: 0, remote count: 74
+local count: 0, remote count: 579
+local count: 0, remote count: 22
+local count: 0, remote count: 28
+local count: 0, remote count: 252
+local count: 0, remote count: 108
+local count: 0, remote count: 100
+local count: 0, remote count: 22
+local count: 0, remote count: 49
+local count: 0, remote count: 24
+local count: 0, remote count: 81
+local count: 0, remote count: 23
+local count: 0, remote count: 61
+local count: 0, remote count: 107
+local count: 0, remote count: 27
+local count: 0, remote count: 142
+local count: 0, remote count: 27
+local count: 0, remote count: 40
+local count: 0, remote count: 57
+local count: 0, remote count: 483
+local count: 0, remote count: 19
+local count: 0, remote count: 77
+local count: 0, remote count: 95
+local count: 0, remote count: 273
+local count: 0, remote count: 120
+local count: 0, remote count: 38
+local count: 0, remote count: 101
+local count: 0, remote count: 187
+local count: 0, remote count: 67
+local count: 0, remote count: 28
+local count: 0, remote count: 23
+local count: 0, remote count: 30
+local count: 0, remote count: 372
+local count: 0, remote count: 431
+local count: 0, remote count: 586
+local count: 0, remote count: 528
+local count: 0, remote count: 25
+local count: 0, remote count: 187
+local count: 0, remote count: 600
+local count: 0, remote count: 23
+local count: 0, remote count: 91
+local count: 0, remote count: 42
+local count: 0, remote count: 37
+local count: 0, remote count: 110
+local count: 0, remote count: 242
+local count: 0, remote count: 148
+local count: 0, remote count: 5247
+local count: 0, remote count: 220
+local count: 0, remote count: 67
+local count: 0, remote count: 45
+local count: 0, remote count: 32
+local count: 0, remote count: 413
+local count: 0, remote count: 79
+local count: 0, remote count: 700
+local count: 0, remote count: 37
+local count: 0, remote count: 25
+local count: 0, remote count: 141
+local count: 0, remote count: 30
+local count: 0, remote count: 221
+local count: 0, remote count: 41
+local count: 0, remote count: 63
+local count: 0, remote count: 27
+local count: 0, remote count: 90
+local count: 0, remote count: 344
+local count: 0, remote count: 26
+local count: 0, remote count: 146
+local count: 0, remote count: 501
+local count: 0, remote count: 29
+local count: 0, remote count: 393
+local count: 0, remote count: 142
+local count: 0, remote count: 158
+local count: 0, remote count: 1360
+local count: 0, remote count: 31
+local count: 0, remote count: 273
+local count: 0, remote count: 52
+local count: 0, remote count: 395
+local count: 0, remote count: 277
+local count: 0, remote count: 185
+local count: 0, remote count: 67
+local count: 0, remote count: 23
+local count: 0, remote count: 1000
+local count: 0, remote count: 100
+local count: 0, remote count: 32
+local count: 0, remote count: 264
+local count: 0, remote count: 278
+local count: 0, remote count: 562
+local count: 0, remote count: 42
+local count: 0, remote count: 53
+local count: 0, remote count: 127
+local count: 0, remote count: 182
+local count: 0, remote count: 33
+local count: 0, remote count: 547
+local count: 0, remote count: 76
+local count: 0, remote count: 740
+local count: 0, remote count: 2651
+local count: 0, remote count: 86
+local count: 0, remote count: 84
+local count: 0, remote count: 160
+local count: 0, remote count: 212
+local count: 0, remote count: 0
+jump 杀马特
+local count: 0, remote count: 50
+local count: 0, remote count: 32
+local count: 0, remote count: 61
+local count: 0, remote count: 4666
+local count: 0, remote count: 321
+local count: 0, remote count: 33
+local count: 0, remote count: 159
+local count: 0, remote count: 829
+local count: 0, remote count: 63
+local count: 0, remote count: 219
+local count: 0, remote count: 55
+local count: 30, remote count: 30
+jump 青克乐
+local count: 17, remote count: 17
+jump 前方高能之辣稽
+local count: 0, remote count: 154
+local count: 579, remote count: 579
+jump 无聊
+local count: 0, remote count: 88
+local count: 34, remote count: 34
+jump 出来嗨
+local count: 32, remote count: 32
+jump 合作愉快
+local count: 95, remote count: 95
+jump 皮皮虾
+local count: 177, remote count: 177
+jump ?
+local count: 0, remote count: 50
+local count: 63, remote count: 63
+jump 你说的都对
+local count: 159, remote count: 159
+jump 吓死宝宝了
+local count: 76, remote count: 76
+jump 这就很尴尬了
+local count: 351, remote count: 353
+local count: 127, remote count: 127
+jump 看好你
+local count: 53, remote count: 53
+jump 欢迎新人
+local count: 263, remote count: 263
+jump 来打我啊
+local count: 26, remote count: 26
+jump 跟我走
+local count: 38, remote count: 38
+jump 泥奏凯
+local count: 61, remote count: 61
+jump 别走
+local count: 32, remote count: 32
+jump 低调低调
+local count: 27, remote count: 27
+jump 啊啊啊
+local count: 84, remote count: 84
+jump 你真棒
+local count: 740, remote count: 740
+jump 亲亲我
+local count: 21, remote count: 21
+jump 多喝热水
+local count: 585, remote count: 587
+local count: 315, remote count: 315
+jump 群主
+local count: 674, remote count: 717
+local count: 37, remote count: 37
+jump 不嘛不嘛
+local count: 0, remote count: 30
+local count: 0, remote count: 17
+local count: 0, remote count: 154
+local count: 0, remote count: 579
+local count: 0, remote count: 88
+local count: 0, remote count: 34
+local count: 0, remote count: 32
+local count: 0, remote count: 95
+local count: 0, remote count: 177
+local count: 0, remote count: 50
+local count: 0, remote count: 63
+local count: 0, remote count: 159
+local count: 0, remote count: 76
+local count: 0, remote count: 353
+local count: 0, remote count: 127
+local count: 0, remote count: 53
+local count: 0, remote count: 263
+local count: 0, remote count: 26
+local count: 0, remote count: 38
+local count: 0, remote count: 61
+local count: 0, remote count: 32
+local count: 0, remote count: 27
+local count: 0, remote count: 84
+local count: 0, remote count: 740
+local count: 0, remote count: 21
+local count: 0, remote count: 587
+local count: 0, remote count: 315
+local count: 0, remote count: 717
+local count: 0, remote count: 37
+local count: 0, remote count: 2652
+local count: 0, remote count: 321
+local count: 0, remote count: 26
+local count: 0, remote count: 93
+local count: 0, remote count: 22
+local count: 0, remote count: 120
+local count: 0, remote count: 28
+local count: 0, remote count: 34
+local count: 0, remote count: 221
+local count: 0, remote count: 212
+local count: 0, remote count: 1492
+local count: 0, remote count: 35
+local count: 0, remote count: 49
+local count: 0, remote count: 20
+local count: 0, remote count: 228
+local count: 0, remote count: 105
+local count: 0, remote count: 20
+local count: 0, remote count: 27
+local count: 0, remote count: 16
+local count: 0, remote count: 100
+local count: 0, remote count: 61
+local count: 0, remote count: 63
+local count: 0, remote count: 43
+local count: 0, remote count: 32
+local count: 0, remote count: 119
+local count: 0, remote count: 48
+local count: 0, remote count: 547
+local count: 0, remote count: 33
+local count: 0, remote count: 36
+local count: 0, remote count: 324
+local count: 0, remote count: 23
+local count: 0, remote count: 485
+local count: 0, remote count: 117
+local count: 0, remote count: 51
+local count: 0, remote count: 33
+local count: 0, remote count: 31
+local count: 0, remote count: 50
+local count: 0, remote count: 586
+local count: 0, remote count: 28
+local count: 0, remote count: 449
+local count: 0, remote count: 25
+local count: 0, remote count: 501
+local count: 0, remote count: 273
+local count: 0, remote count: 187
+local count: 0, remote count: 141
+local count: 0, remote count: 55
+local count: 0, remote count: 243
+local count: 0, remote count: 108
+local count: 0, remote count: 78
+local count: 0, remote count: 31
+local count: 0, remote count: 103
+local count: 0, remote count: 120
+local count: 0, remote count: 37
+local count: 0, remote count: 464
+local count: 0, remote count: 23
+local count: 0, remote count: 79
+local count: 0, remote count: 23
+local count: 0, remote count: 273
+local count: 0, remote count: 252
+local count: 0, remote count: 96
+local count: 0, remote count: 148
+local count: 0, remote count: 103
+local count: 0, remote count: 157
+local count: 0, remote count: 38
+local count: 0, remote count: 222
+local count: 0, remote count: 1360
+local count: 0, remote count: 155
+local count: 0, remote count: 33
+local count: 0, remote count: 2588
+local count: 0, remote count: 189
+local count: 0, remote count: 27
+local count: 0, remote count: 163
+local count: 0, remote count: 562
+local count: 0, remote count: 52
+local count: 0, remote count: 37
+local count: 0, remote count: 275
+local count: 0, remote count: 70
+local count: 0, remote count: 75
+local count: 0, remote count: 958
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 0, remote count: 264
+local count: 0, remote count: 67
+local count: 0, remote count: 715
+local count: 0, remote count: 85
+local count: 0, remote count: 220
+local count: 0, remote count: 21
+local count: 0, remote count: 37
+local count: 0, remote count: 70
+local count: 0, remote count: 25
+local count: 0, remote count: 581
+local count: 0, remote count: 4227
+local count: 0, remote count: 431
+local count: 0, remote count: 41
+local count: 0, remote count: 41
+local count: 0, remote count: 57
+local count: 0, remote count: 33
+local count: 0, remote count: 2617
+local count: 0, remote count: 308
+local count: 0, remote count: 455
+local count: 0, remote count: 52
+local count: 0, remote count: 44
+local count: 0, remote count: 90
+local count: 0, remote count: 114
+local count: 0, remote count: 23
+local count: 0, remote count: 613
+local count: 0, remote count: 74
+local count: 0, remote count: 35
+local count: 0, remote count: 106
+local count: 0, remote count: 31
+local count: 0, remote count: 81
+local count: 0, remote count: 16
+local count: 0, remote count: 85
+local count: 0, remote count: 86
+local count: 0, remote count: 71
+local count: 0, remote count: 42
+local count: 0, remote count: 224
+local count: 0, remote count: 30
+local count: 0, remote count: 70
+local count: 0, remote count: 941
+local count: 0, remote count: 63
+local count: 0, remote count: 88
+local count: 0, remote count: 189
+local count: 0, remote count: 45
+local count: 0, remote count: 830
+local count: 0, remote count: 89
+local count: 0, remote count: 348
+local count: 0, remote count: 216
+local count: 0, remote count: 76
+local count: 0, remote count: 49
+local count: 0, remote count: 456
+local count: 0, remote count: 1025
+local count: 0, remote count: 2340
+local count: 0, remote count: 69
+local count: 0, remote count: 1718
+local count: 0, remote count: 277
+local count: 0, remote count: 419
+local count: 0, remote count: 160
+local count: 0, remote count: 199
+local count: 0, remote count: 227
+local count: 0, remote count: 28
+local count: 0, remote count: 29
+local count: 0, remote count: 309
+local count: 0, remote count: 27
+local count: 0, remote count: 29
+local count: 0, remote count: 220
+local count: 0, remote count: 23
+local count: 0, remote count: 1628
+local count: 0, remote count: 40
+local count: 0, remote count: 158
+local count: 0, remote count: 588
+local count: 0, remote count: 33
+local count: 0, remote count: 981
+local count: 0, remote count: 95
+local count: 0, remote count: 645
+local count: 0, remote count: 28
+local count: 0, remote count: 10
+local count: 0, remote count: 55
+local count: 0, remote count: 42
+local count: 0, remote count: 344
+local count: 0, remote count: 30
+local count: 0, remote count: 281
+local count: 0, remote count: 133
+local count: 0, remote count: 279
+local count: 0, remote count: 27
+local count: 0, remote count: 20
+local count: 0, remote count: 101
+local count: 0, remote count: 35
+local count: 0, remote count: 23
+local count: 0, remote count: 22
+local count: 0, remote count: 79
+local count: 0, remote count: 67
+local count: 0, remote count: 69
+local count: 0, remote count: 100
+local count: 0, remote count: 28
+local count: 0, remote count: 1000
+local count: 0, remote count: 19
+local count: 0, remote count: 101
+local count: 0, remote count: 528
+local count: 0, remote count: 190
+local count: 0, remote count: 182
+local count: 0, remote count: 22
+local count: 0, remote count: 398
+local count: 0, remote count: 72
+local count: 0, remote count: 146
+local count: 0, remote count: 20
+local count: 0, remote count: 180
+local count: 0, remote count: 600
+local count: 0, remote count: 578
+local count: 0, remote count: 143
+local count: 0, remote count: 242
+local count: 0, remote count: 34
+local count: 0, remote count: 107
+local count: 0, remote count: 83
+local count: 0, remote count: 466
+local count: 0, remote count: 74
+local count: 0, remote count: 65
+local count: 0, remote count: 372
+local count: 0, remote count: 64
+local count: 0, remote count: 393
+local count: 0, remote count: 219
+local count: 0, remote count: 36
+local count: 0, remote count: 185
+local count: 0, remote count: 30
+local count: 0, remote count: 61
+local count: 0, remote count: 25
+local count: 0, remote count: 700
+local count: 0, remote count: 32
+local count: 0, remote count: 77
+local count: 0, remote count: 33
+local count: 0, remote count: 82
+local count: 0, remote count: 187
+local count: 0, remote count: 33
+local count: 0, remote count: 67
+local count: 0, remote count: 140
+local count: 0, remote count: 142
+local count: 0, remote count: 42
+local count: 0, remote count: 81
+local count: 0, remote count: 120
+local count: 0, remote count: 158
+local count: 0, remote count: 32
+local count: 0, remote count: 24
+local count: 0, remote count: 40
+local count: 0, remote count: 24
+local count: 0, remote count: 30
+local count: 0, remote count: 152
+local count: 0, remote count: 5249
+local count: 0, remote count: 4666
+local count: 0, remote count: 110
+local count: 0, remote count: 293
+local count: 0, remote count: 265
+local count: 0, remote count: 1673
+local count: 0, remote count: 91
+local count: 0, remote count: 414
+local count: 0, remote count: 47
+local count: 0, remote count: 42
+local count: 0, remote count: 37
+local count: 0, remote count: 30
+local count: 0, remote count: 17
+local count: 0, remote count: 154
+local count: 0, remote count: 507
+local count: 0, remote count: 81
+local count: 0, remote count: 82
+local count: 0, remote count: 277
+local count: 0, remote count: 117
+local count: 0, remote count: 30
+local count: 0, remote count: 20
+local count: 0, remote count: 32
+local count: 0, remote count: 43
+local count: 0, remote count: 42
+local count: 0, remote count: 49
+local count: 0, remote count: 148
+local count: 0, remote count: 4666
+local count: 0, remote count: 587
+local count: 0, remote count: 100
+local count: 0, remote count: 344
+local count: 0, remote count: 20
+local count: 0, remote count: 30
+local count: 0, remote count: 348
+local count: 0, remote count: 190
+local count: 0, remote count: 464
+local count: 0, remote count: 28
+local count: 0, remote count: 84
+local count: 0, remote count: 243
+local count: 0, remote count: 32
+local count: 0, remote count: 187
+local count: 0, remote count: 53
+local count: 0, remote count: 23
+local count: 0, remote count: 34
+local count: 0, remote count: 189
+local count: 0, remote count: 71
+local count: 0, remote count: 76
+local count: 0, remote count: 455
+local count: 0, remote count: 21
+local count: 0, remote count: 65
+local count: 0, remote count: 81
+local count: 0, remote count: 264
+local count: 0, remote count: 37
+local count: 0, remote count: 22
+local count: 0, remote count: 141
+local count: 0, remote count: 120
+local count: 0, remote count: 37
+local count: 0, remote count: 29
+local count: 0, remote count: 16
+local count: 0, remote count: 33
+local count: 0, remote count: 578
+local count: 0, remote count: 74
+local count: 0, remote count: 547
+local count: 0, remote count: 36
+local count: 0, remote count: 27
+local count: 0, remote count: 22
+local count: 0, remote count: 78
+local count: 0, remote count: 431
+local count: 0, remote count: 52
+local count: 0, remote count: 36
+local count: 0, remote count: 48
+local count: 0, remote count: 103
+local count: 0, remote count: 1000
+local count: 0, remote count: 50
+local count: 0, remote count: 146
+local count: 0, remote count: 27
+local count: 0, remote count: 2589
+local count: 0, remote count: 40
+local count: 0, remote count: 74
+local count: 0, remote count: 613
+local count: 0, remote count: 177
+local count: 0, remote count: 38
+local count: 0, remote count: 21
+local count: 0, remote count: 2340
+local count: 0, remote count: 108
+local count: 0, remote count: 700
+local count: 0, remote count: 24
+local count: 0, remote count: 63
+local count: 0, remote count: 308
+local count: 0, remote count: 25
+local count: 0, remote count: 1628
+local count: 0, remote count: 45
+local count: 0, remote count: 89
+local count: 0, remote count: 581
+local count: 0, remote count: 47
+local count: 0, remote count: 32
+local count: 0, remote count: 263
+local count: 0, remote count: 133
+local count: 0, remote count: 189
+local count: 0, remote count: 96
+local count: 0, remote count: 228
+local count: 0, remote count: 23
+local count: 0, remote count: 645
+local count: 0, remote count: 324
+local count: 0, remote count: 140
+local count: 0, remote count: 143
+local count: 0, remote count: 106
+local count: 0, remote count: 121
+local count: 0, remote count: 86
+local count: 0, remote count: 1492
+local count: 0, remote count: 28
+local count: 0, remote count: 220
+local count: 0, remote count: 29
+local count: 0, remote count: 41
+local count: 0, remote count: 26
+local count: 0, remote count: 10
+local count: 0, remote count: 30
+local count: 0, remote count: 76
+local count: 0, remote count: 49
+local count: 0, remote count: 273
+local count: 0, remote count: 31
+local count: 0, remote count: 44
+local count: 0, remote count: 293
+local count: 0, remote count: 41
+local count: 0, remote count: 42
+local count: 0, remote count: 63
+local count: 0, remote count: 715
+local count: 0, remote count: 219
+local count: 0, remote count: 35
+local count: 0, remote count: 23
+local count: 0, remote count: 119
+local count: 0, remote count: 91
+local count: 0, remote count: 63
+local count: 0, remote count: 25
+local count: 0, remote count: 51
+local count: 0, remote count: 67
+local count: 0, remote count: 20
+local count: 0, remote count: 2652
+local count: 0, remote count: 155
+local count: 0, remote count: 414
+local count: 0, remote count: 79
+local count: 0, remote count: 61
+local count: 0, remote count: 23
+local count: 0, remote count: 419
+local count: 0, remote count: 456
+local count: 0, remote count: 27
+local count: 0, remote count: 4242
+local count: 0, remote count: 466
+local count: 0, remote count: 75
+local count: 0, remote count: 61
+local count: 0, remote count: 588
+local count: 0, remote count: 27
+local count: 0, remote count: 67
+local count: 0, remote count: 19
+local count: 0, remote count: 562
+local count: 0, remote count: 321
+local count: 0, remote count: 1718
+local count: 0, remote count: 38
+local count: 0, remote count: 24
+local count: 0, remote count: 28
+local count: 0, remote count: 37
+local count: 0, remote count: 114
+local count: 0, remote count: 830
+local count: 0, remote count: 282
+local count: 0, remote count: 110
+local count: 0, remote count: 32
+local count: 0, remote count: 1025
+local count: 0, remote count: 315
+local count: 0, remote count: 33
+local count: 0, remote count: 0
+jump 难过
+local count: 0, remote count: 55
+local count: 0, remote count: 85
+local count: 0, remote count: 70
+local count: 0, remote count: 33
+local count: 0, remote count: 25
+local count: 0, remote count: 579
+local count: 0, remote count: 449
+local count: 0, remote count: 88
+local count: 0, remote count: 83
+local count: 0, remote count: 40
+local count: 0, remote count: 61
+local count: 0, remote count: 37
+local count: 0, remote count: 142
+local count: 0, remote count: 52
+local count: 0, remote count: 34
+local count: 0, remote count: 224
+local count: 0, remote count: 35
+local count: 0, remote count: 67
+local count: 0, remote count: 158
+local count: 0, remote count: 158
+local count: 0, remote count: 127
+local count: 0, remote count: 55
+local count: 0, remote count: 16
+local count: 0, remote count: 105
+local count: 0, remote count: 252
+local count: 0, remote count: 185
+local count: 0, remote count: 163
+local count: 0, remote count: 33
+local count: 0, remote count: 93
+local count: 0, remote count: 30
+local count: 0, remote count: 121
+local count: 0, remote count: 101
+local count: 0, remote count: 221
+local count: 0, remote count: 22
+local count: 0, remote count: 309
+local count: 0, remote count: 69
+local count: 0, remote count: 23
+local count: 0, remote count: 528
+local count: 0, remote count: 501
+local count: 0, remote count: 372
+local count: 0, remote count: 1673
+local count: 0, remote count: 81
+local count: 0, remote count: 20
+local count: 0, remote count: 157
+local count: 0, remote count: 33
+local count: 0, remote count: 50
+local count: 0, remote count: 69
+local count: 0, remote count: 182
+local count: 0, remote count: 57
+local count: 0, remote count: 242
+local count: 0, remote count: 958
+local count: 0, remote count: 273
+local count: 0, remote count: 79
+local count: 0, remote count: 586
+local count: 0, remote count: 212
+local count: 0, remote count: 72
+local count: 0, remote count: 222
+local count: 0, remote count: 31
+local count: 0, remote count: 941
+local count: 0, remote count: 42
+local count: 0, remote count: 32
+local count: 0, remote count: 740
+local count: 0, remote count: 187
+local count: 0, remote count: 31
+local count: 0, remote count: 717
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 0, remote count: 101
+local count: 0, remote count: 27
+local count: 0, remote count: 227
+local count: 0, remote count: 85
+local count: 0, remote count: 265
+local count: 0, remote count: 279
+local count: 0, remote count: 35
+local count: 0, remote count: 393
+local count: 0, remote count: 2617
+local count: 0, remote count: 180
+local count: 0, remote count: 353
+local count: 0, remote count: 275
+local count: 0, remote count: 152
+local count: 0, remote count: 1360
+local count: 0, remote count: 5249
+local count: 0, remote count: 216
+local count: 0, remote count: 399
+local count: 0, remote count: 159
+local count: 0, remote count: 33
+local count: 0, remote count: 95
+local count: 0, remote count: 981
+local count: 0, remote count: 220
+local count: 0, remote count: 100
+local count: 0, remote count: 103
+local count: 0, remote count: 34
+local count: 0, remote count: 28
+local count: 0, remote count: 107
+local count: 0, remote count: 26
+local count: 0, remote count: 70
+local count: 0, remote count: 23
+local count: 0, remote count: 77
+local count: 0, remote count: 64
+local count: 0, remote count: 33
+local count: 0, remote count: 90
+local count: 0, remote count: 28
+local count: 0, remote count: 42
+local count: 0, remote count: 160
+local count: 0, remote count: 37
+local count: 0, remote count: 199
+local count: 0, remote count: 485
+local count: 0, remote count: 70
+local count: 30, remote count: 30
+jump 青克乐
+local count: 17, remote count: 17
+jump 前方高能之辣稽
+local count: 154, remote count: 154
+jump 吃瓜
+local count: 579, remote count: 579
+jump 无聊
+local count: 0, remote count: 29
+local count: 33, remote count: 33
+jump 无敌
+local count: 33, remote count: 33
+jump 退下吧
+local count: 80, remote count: 82
+local count: 348, remote count: 348
+jump 打你
+local count: 89, remote count: 89
+jump 懵逼了
+local count: 243, remote count: 243
+jump 我错了嘛
+local count: 321, remote count: 321
+jump 真棒
+local count: 159, remote count: 159
+jump 吓死宝宝了
+local count: 190, remote count: 190
+jump 嘻嘻
+local count: 273, remote count: 273
+jump 无奈
+local count: 103, remote count: 103
+jump 来打我
+local count: 5249, remote count: 5249
+jump 猫
+local count: 141, remote count: 143
+local count: 52, remote count: 52
+jump 静静地
+local count: 264, remote count: 264
+jump 打我啊
+local count: 65, remote count: 65
+jump 盗我图
+local count: 22, remote count: 22
+jump 机智如我
+local count: 42, remote count: 42
+jump 胖虎
+local count: 221, remote count: 222
+local count: 83, remote count: 83
+jump 不忍直视
+local count: 33, remote count: 33
+jump 黑眼圈
+local count: 27, remote count: 27
+jump 啊啊啊
+local count: 528, remote count: 528
+jump 比心
+local count: 23, remote count: 23
+jump 那你很棒棒
+local count: 20, remote count: 20
+jump 要你管
+local count: 240, remote count: 242
+local count: 700, remote count: 700
+jump 加油哦
+local count: 140, remote count: 140
+jump 怪我喽
+local count: 104, remote count: 105
+local count: 830, remote count: 830
+jump 什么
+local count: 91, remote count: 91
+jump 垃圾游戏
+local count: 2338, remote count: 2340
+local count: 28, remote count: 28
+jump 天啦噜
+local count: 88, remote count: 88
+jump 懒得理你
+local count: 81, remote count: 81
+jump 交个朋友吧
+local count: 16, remote count: 16
+jump 妥妥的
+local count: 32, remote count: 32
+jump 低调低调
+local count: 275, remote count: 275
+jump 小仙女
+local count: 42, remote count: 42
+jump 我不服
+local count: 55, remote count: 55
+jump 噗
+local count: 21, remote count: 21
+jump 不错哦
+local count: 29, remote count: 29
+jump 服不服
+local count: 57, remote count: 57
+jump 无话可说
+local count: 2615, remote count: 2617
+local count: 628, remote count: 645
+local count: 85, remote count: 85
+jump 棒棒的
+local count: 26, remote count: 26
+jump 带你飞
+local count: 37, remote count: 37
+jump 干得漂亮
+local count: 501, remote count: 501
+jump 滚
+local count: 198, remote count: 199
+local count: 958, remote count: 958
+jump 委屈
+local count: 41, remote count: 41
+jump 不高兴
+local count: 30, remote count: 30
+jump 好害羞
+local count: 353, remote count: 353
+jump 捂脸
+local count: 142, remote count: 142
+jump 要哭了
+local count: 188, remote count: 189
+local count: 163, remote count: 163
+jump 打死你
+local count: 1020, remote count: 1025
+local count: 100, remote count: 100
+jump 惊呆了
+local count: 47, remote count: 47
+jump 我的小可爱
+local count: 23, remote count: 23
+jump 太污了
+local count: 121, remote count: 121
+jump 歪?
+local count: 70, remote count: 70
+jump 打屁股
+local count: 398, remote count: 399
+local count: 453, remote count: 455
+local count: 70, remote count: 70
+jump 打屁屁
+local count: 315, remote count: 315
+jump 群主
+local count: 127, remote count: 127
+jump 看好你
+local count: 282, remote count: 282
+jump 楼上
+local count: 141, remote count: 141
+jump 宝宝心里苦
+local count: 456, remote count: 456
+jump 呵呵
+local count: 101, remote count: 101
+jump 欺负人
+local count: 86, remote count: 86
+jump 不听不听
+local count: 30, remote count: 30
+jump 扎心了老铁
+local count: 50, remote count: 50
+jump 掐指一算
+local count: 40, remote count: 40
+jump 你咬我
+local count: 33, remote count: 33
+jump 不活了
+local count: 476, remote count: 485
+local count: 23, remote count: 23
+jump 好期待
+local count: 27, remote count: 27
+jump 你在逗我
+local count: 431, remote count: 431
+jump 吐舌头
+local count: 119, remote count: 119
+jump 切
+local count: 114, remote count: 114
+jump 流鼻血
+local count: 76, remote count: 76
+jump 这就很尴尬了
+local count: 1492, remote count: 1492
+jump 亲亲
+local count: 77, remote count: 77
+jump 我也很绝望啊
+local count: 108, remote count: 108
+jump 辣鸡
+local count: 37, remote count: 37
+jump 不嘛不嘛
+local count: 107, remote count: 107
+jump 我就笑笑
+local count: 63, remote count: 63
+jump 你说的都对
+local count: 37, remote count: 37
+jump 给你吃
+local count: 53, remote count: 53
+jump 欢迎新人
+local count: 61, remote count: 61
+jump 别走
+local count: 38, remote count: 42
+local count: 1628, remote count: 1628
+jump 红包
+local count: 72, remote count: 72
+jump 亲亲抱抱举高高
+local count: 187, remote count: 187
+jump 绿帽子
+local count: 255, remote count: 265
+local count: 20, remote count: 20
+jump biubiubiu
+local count: 457, remote count: 466
+local count: 49, remote count: 49
+jump 快活啊
+local count: 37, remote count: 37
+jump 我最帅
+local count: 93, remote count: 93
+jump 阿弥陀佛
+local count: 1718, remote count: 1718
+jump 鹿晗
+local count: 23, remote count: 23
+jump 哦哟哟
+local count: 110, remote count: 110
+jump biu
+local count: 175, remote count: 180
+local count: 81, remote count: 81
+jump 委屈巴巴
+local count: 33, remote count: 33
+jump 你给我等着
+local count: 49, remote count: 49
+jump 小短腿
+local count: 224, remote count: 224
+jump 没有
+local count: 562, remote count: 562
+jump 尴尬
+local count: 38, remote count: 38
+jump 嫁给我
+local count: 38, remote count: 37
+jump 不去
+local count: 95, remote count: 95
+jump 再说一遍
+local count: 51, remote count: 51
+jump 老司机带带我
+local count: 587, remote count: 588
+local count: 28, remote count: 28
+jump 没人理我
+local count: 273, remote count: 273
+jump 好无奈
+local count: 148, remote count: 148
+jump 儿子
+local count: 28, remote count: 28
+jump 不要生气
+local count: 4239, remote count: 4242
+local count: 995, remote count: 1000
+local count: 20, remote count: 20
+jump 你好污
+local count: 70, remote count: 70
+jump 怕了吧
+local count: 672, remote count: 715
+local count: 43, remote count: 43
+jump 我最可爱
+local count: 100, remote count: 100
+jump 心碎了
+local count: 64, remote count: 64
+jump 哦买嘎
+local count: 4665, remote count: 4666
+local count: 120, remote count: 120
+jump 略略略
+local count: 2586, remote count: 2589
+local count: 69, remote count: 69
+jump 佩服佩服
+local count: 41, remote count: 41
+jump 你的良心不会痛吗
+local count: 0, remote count: 0
+jump 啪啪啪
+local count: 78, remote count: 78
+jump 我也很绝望
+local count: 50, remote count: 50
+jump 杀马特
+local count: 35, remote count: 35
+jump 你再说一遍
+local count: 33, remote count: 33
+jump 亲一口
+local count: 571, remote count: 581
+local count: 19, remote count: 19
+jump 一路走好
+local count: 28, remote count: 28
+jump 好基友
+local count: 34, remote count: 34
+jump 笑出声
+local count: 45, remote count: 45
+jump 感觉身体被掏空
+local count: 212, remote count: 212
+jump 流口水
+local count: 971, remote count: 981
+local count: 23, remote count: 23
+jump 谢谢夸奖
+local count: 85, remote count: 85
+jump 傻子
+local count: 42, remote count: 42
+jump 女汉子
+local count: 36, remote count: 36
+jump 求安慰
+local count: 16, remote count: 16
+jump 谦虚
+local count: 34, remote count: 34
+jump 拖出去
+local count: 71, remote count: 71
+jump 不想活了
+local count: 393, remote count: 393
+jump 棒棒棒
+local count: 33, remote count: 33
+jump 你好棒
+local count: 25, remote count: 25
+jump biubiu
+local count: 189, remote count: 189
+jump 胖子
+local count: 35, remote count: 35
+jump 不爱我
+local count: 263, remote count: 263
+jump 来打我啊
+local count: 414, remote count: 414
+jump 不开森
+local count: 29, remote count: 29
+jump 没抢到
+local count: 101, remote count: 101
+jump 哭了
+local count: 67, remote count: 67
+jump 你咋不上天
+local count: 228, remote count: 228
+jump 666
+local count: 32, remote count: 32
+jump 合作愉快
+local count: 740, remote count: 740
+jump 亲亲我
+local count: 25, remote count: 25
+jump 胡说八道
+local count: 121, remote count: 121
+jump 歪
+local count: 343, remote count: 344
+local count: 145, remote count: 146
+local count: 27, remote count: 27
+jump 笑一个
+local count: 24, remote count: 24
+jump 浪里个浪
+local count: 324, remote count: 324
+jump 看着你
+local count: 75, remote count: 75
+jump 小拳拳
+local count: 94, remote count: 96
+local count: 61, remote count: 61
+jump 要亲亲
+local count: 84, remote count: 84
+jump 你真棒
+local count: 157, remote count: 157
+jump 不
+local count: 34, remote count: 34
+jump 出来嗨
+local count: 32, remote count: 32
+jump 心好痛
+local count: 308, remote count: 308
+jump 我打你
+local count: 220, remote count: 220
+jump 我不听我不听
+local count: 79, remote count: 79
+jump 动次打次
+local count: 27, remote count: 27
+jump 好污
+local count: 185, remote count: 185
+jump 人呢人呢
+local count: 187, remote count: 187
+jump 原谅帽
+local count: 464, remote count: 464
+jump 猪
+local count: 419, remote count: 419
+jump 嫌弃
+local count: 586, remote count: 586
+jump 哼
+local count: 55, remote count: 55
+jump 我竟无言以对
+local count: 279, remote count: 279
+jump 我错了
+local count: 28, remote count: 28
+jump 你最棒
+local count: 21, remote count: 21
+jump 多喝热水
+local count: 220, remote count: 227
+local count: 23, remote count: 23
+jump 肚子饿
+local count: 117, remote count: 117
+jump 互相伤害
+local count: 182, remote count: 182
+jump stop
+local count: 61, remote count: 61
+jump 原来是这样
+local count: 90, remote count: 90
+jump 我想静静
+local count: 370, remote count: 372
+local count: 276, remote count: 277
+local count: 71, remote count: 74
+local count: 449, remote count: 449
+jump 起来嗨
+local count: 674, remote count: 717
+local count: 220, remote count: 220
+jump 学习
+local count: 221, remote count: 221
+jump 6
+local count: 25, remote count: 25
+jump 再来一个
+local count: 608, remote count: 613
+local count: 26, remote count: 26
+jump 跟我走
+local count: 67, remote count: 67
+jump 听不懂
+local count: 158, remote count: 158
+jump 暗中观察
+local count: 74, remote count: 74
+jump 快点
+local count: 155, remote count: 155
+jump 吃瓜群众
+local count: 1359, remote count: 1360
+local count: 590, remote count: 600
+local count: 69, remote count: 69
+jump 说的对
+local count: 52, remote count: 52
+jump 我
+local count: 30, remote count: 30
+jump 造作啊
+local count: 547, remote count: 547
+jump 好害怕
+local count: 106, remote count: 106
+jump 抱大腿
+local count: 578, remote count: 578
+jump 无语
+local count: 79, remote count: 79
+jump 大佬
+local count: 35, remote count: 35
+jump 你说得对
+local count: 308, remote count: 309
+local count: 160, remote count: 160
+jump 智障
+local count: 158, remote count: 158
+jump 好冷啊
+local count: 177, remote count: 177
+jump ?
+local count: 38, remote count: 38
+jump 泥奏凯
+local count: 32, remote count: 32
+jump 热成狗
+local count: 219, remote count: 219
+jump 我喜欢你
+local count: 67, remote count: 67
+jump 举高高
+local count: 24, remote count: 24
+jump 哎呦我去
+local count: 10, remote count: 10
+jump 有前途
+local count: 585, remote count: 587
+local count: 63, remote count: 63
+jump 人民币
+local count: 293, remote count: 293
+jump 嘿嘿
+local count: 2643, remote count: 2652
+local count: 31, remote count: 31
+jump 渍渍渍
+local count: 30, remote count: 30
+jump 咋地
+local count: 133, remote count: 133
+jump 生无可恋
+local count: 36, remote count: 36
+jump 看不见
+local count: 40, remote count: 40
+jump 发生了什么
+local count: 48, remote count: 48
+jump 好腻害
+local count: 63, remote count: 63
+jump 咬我啊
+local count: 152, remote count: 152
+jump 乖
+local count: 44, remote count: 44
+jump 一本正经
+local count: 22, remote count: 22
+jump 大骗子
+local count: 931, remote count: 941
+local count: 1672, remote count: 1673
+local count: 32, remote count: 32
+jump 有点意思
+local count: 27, remote count: 27
+jump 我差点就信了
+local count: 216, remote count: 216
+jump 老公
+local count: 20, remote count: 20
+jump 不喜欢你了
+local count: 75, remote count: 76
+local count: 252, remote count: 252
+jump 人呢
+local count: 22, remote count: 22
+jump 瑟瑟发抖
+local count: 103, remote count: 103
+jump 好怕怕
+local count: 31, remote count: 31
+jump 切克闹
+local count: 31, remote count: 31
+jump 你在逗我吗
