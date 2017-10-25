@@ -60,13 +60,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /*
  * ------------------------------------------------------
  *  Load the framework constants
+ *  加载框架中定义的常量，先加载特定环境中的常量，比如：
+ *  ENVIRONMENT，然后在加载全局的常量，所以特定环境中定
+ *  义的常量会覆盖全局的常量。
  * ------------------------------------------------------
  */
+    /* 特定环境中的常量 */
 	if (file_exists(APPPATH.'config/'.ENVIRONMENT.'/constants.php'))
 	{
 		require_once(APPPATH.'config/'.ENVIRONMENT.'/constants.php');
 	}
-
+    /**
+     * 全局的常量，如果同名常量已经在上面特定常量文
+     * 件中定义了，则这里不再定义
+     */
 	if (file_exists(APPPATH.'config/constants.php'))
 	{
 		require_once(APPPATH.'config/constants.php');
@@ -75,6 +82,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /*
  * ------------------------------------------------------
  *  Load the global functions
+ *  加载全局函数，比如：get_config(),is_loaded()等
  * ------------------------------------------------------
  */
 	require_once(BASEPATH.'core/Common.php');
@@ -90,7 +98,7 @@ if ( ! is_php('5.4'))
 {
 	ini_set('magic_quotes_runtime', 0);
 
-	if ((bool) ini_get('register_globals'))
+	if ((bool) ini_get('register_globals')
 	{
 		$_protected = array(
 			'_SERVER',
