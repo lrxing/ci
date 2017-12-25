@@ -98,7 +98,7 @@ if ( ! is_php('5.4'))
 {
 	ini_set('magic_quotes_runtime', 0);
 
-	if ((bool) ini_get('register_globals')
+	if ((bool) ini_get('register_globals'))
 	{
 		$_protected = array(
 			'_SERVER',
